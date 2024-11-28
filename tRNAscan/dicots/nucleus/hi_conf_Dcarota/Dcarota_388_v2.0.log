@@ -1,0 +1,61 @@
+EukHighConfidenceFilter v1.0 Summary
+Completed Time: Sat Apr 29 11:08:17 2023
+
+Inputs
+------------------------------------------------------
+tRNAscan-SE output file: Dcarota_388_v2.0_trnascan-se.output
+tRNAscan-SE ss file: Dcarota_388_v2.0_trnascan-se.struct
+Secondary filtering domain-specific model score cutoff: 50
+Secondary filtering secondary structure score cutoff: 10
+Secondary filtering isotype-specific model score cutoff: 70
+Tertiary filtering isotype-specific model starting score cutoff: 70
+Tertiary filtering maximum isotype-specific model score cutoff: 95
+Remove filtered hits: Yes
+
+Outputs
+------------------------------------------------------
+tRNAscan-SE output file: hi_conf_Dcarota/Dcarota_388_v2.0.out
+tRNAscan-SE ss file: hi_conf_Dcarota/Dcarota_388_v2.0.ss
+Summary file: hi_conf_Dcarota/Dcarota_388_v2.0.log
+
+Summary statistics
+------------------------------------------------------
+Total tRNA predictions:                                613
+Possible pseudogenes:                                  91
+tRNAs with scores lower than secondary cutoffs:        89
+tRNAs failed tertiary filter:                          0
+
+tRNAs after filtering:                                 433
+
+tRNAs with mismatched isotype:                         5
+tRNAs with undetermined isotype:                       0
+tRNAs with unexpected anticodon:                       1
+
+High confidence set:                                   427
+
+Isotype / Anticodon Counts After Filtering
+------------------------------------------------------
+
+Ala     : 28	  AGC: 14      GGC: 0       CGC: 4       TGC: 10    
+Gly     : 38	  ACC: 0       GCC: 21      CCC: 4       TCC: 13    
+Pro     : 22	  AGG: 9       GGG: 0       CGG: 3       TGG: 10    
+Thr     : 23	  AGT: 12      GGT: 0       CGT: 3       TGT: 8     
+Val     : 24	  AAC: 12      GAC: 0       CAC: 7       TAC: 5     
+Ser     : 31	  AGA: 10      GGA: 1       CGA: 3       TGA: 7       ACT: 0       GCT: 10                              
+Arg     : 32	  ACG: 10      GCG: 0       CCG: 4       TCG: 5                                 CCT: 7       TCT: 6     
+Leu     : 33	  AAG: 8       GAG: 0       CAG: 3       TAG: 8                                 CAA: 9       TAA: 5     
+Phe     : 13	  AAA: 0       GAA: 13                              
+Asn     : 16	  ATT: 0       GTT: 16                              
+Lys     : 27	                            CTT: 13      TTT: 14    
+Asp     : 21	  ATC: 0       GTC: 21                              
+Glu     : 23	                            CTC: 14      TTC: 9     
+His     : 12	  ATG: 0       GTG: 12                              
+Gln     : 21	                            CTG: 8       TTG: 13    
+Ile     : 15	  AAT: 10      GAT: 0                    TAT: 5     
+Met     : 23	                            CAT: 23                 
+Tyr     : 11	  ATA: 0       GTA: 11                              
+Supres  : 0	                            CTA: 0       TTA: 0     
+Cys     : 8	  ACA: 0       GCA: 8                               
+Trp     : 12	                            CCA: 12                 
+SelCys  : 0	                                         TCA: 0     
+

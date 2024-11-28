@@ -1,0 +1,78 @@
+EukHighConfidenceFilter v1.0 Summary
+Completed Time: Sat Apr 29 12:28:28 2023
+
+Inputs
+------------------------------------------------------
+tRNAscan-SE output file: Hannuus_494_r1.0_trnascan-se.output
+tRNAscan-SE ss file: Hannuus_494_r1.0_trnascan-se.struct
+Secondary filtering domain-specific model score cutoff: 50
+Secondary filtering secondary structure score cutoff: 10
+Secondary filtering isotype-specific model score cutoff: 70
+Tertiary filtering isotype-specific model starting score cutoff: 70
+Tertiary filtering maximum isotype-specific model score cutoff: 95
+Remove filtered hits: Yes
+
+Outputs
+------------------------------------------------------
+tRNAscan-SE output file: hi_conf_Hannuus/Hannuus_494_r1.0.out
+tRNAscan-SE ss file: hi_conf_Hannuus/Hannuus_494_r1.0.ss
+Summary file: hi_conf_Hannuus/Hannuus_494_r1.0.log
+
+Summary statistics
+------------------------------------------------------
+Total tRNA predictions:                                2287
+Possible pseudogenes:                                  535
+tRNAs with scores lower than secondary cutoffs:        526
+tRNAs failed tertiary filter:                          278
+
+tRNAs after filtering:                                 948
+
+tRNAs with mismatched isotype:                         16
+tRNAs with undetermined isotype:                       0
+tRNAs with unexpected anticodon:                       14
+
+High confidence set:                                   918
+
+Tertiary filter - anticodon counts
+------------------------------------------------------
+
+Isotype  Anticodon  BeforeFiltering  AfterFiltering  FinalScoreCutoff
+Arg      ACG        45               18              74              
+Arg      CCG        7                7               74              
+Arg      TCG        11               11              74              
+Arg      CCT        13               12              74              
+Arg      TCT        31               16              74              
+Asn      GTT        61               28              83              
+Asp      GTC        72               7               95              
+Gly      GCC        69               0               95              
+Gly      CCC        16               0               95              
+Gly      TCC        32               0               95              
+Met      CAT        49               48              95              
+Phe      GAA        57               40              92              
+
+Isotype / Anticodon Counts After Filtering
+------------------------------------------------------
+
+Ala     : 60	  AGC: 32      GGC: 0       CGC: 10      TGC: 18    
+Gly     : 0	  ACC: 0       GCC: 0       CCC: 0       TCC: 0     
+Pro     : 64	  AGG: 23      GGG: 0       CGG: 8       TGG: 33    
+Thr     : 57	  AGT: 28      GGT: 0       CGT: 7       TGT: 22    
+Val     : 74	  AAC: 32      GAC: 0       CAC: 16      TAC: 26    
+Ser     : 99	  AGA: 20      GGA: 14      CGA: 8       TGA: 29      ACT: 0       GCT: 28                              
+Arg     : 64	  ACG: 18      GCG: 0       CCG: 7       TCG: 11                                CCT: 12      TCT: 16    
+Leu     : 86	  AAG: 24      GAG: 0       CAG: 7       TAG: 21                                CAA: 22      TAA: 12    
+Phe     : 40	  AAA: 0       GAA: 40                              
+Asn     : 28	  ATT: 0       GTT: 28                              
+Lys     : 71	                            CTT: 39      TTT: 32    
+Asp     : 7	  ATC: 0       GTC: 7                               
+Glu     : 68	                            CTC: 37      TTC: 31    
+His     : 23	  ATG: 0       GTG: 23                              
+Gln     : 30	                            CTG: 15      TTG: 15    
+Ile     : 42	  AAT: 33      GAT: 0                    TAT: 9     
+Met     : 48	                            CAT: 48                 
+Tyr     : 31	  ATA: 0       GTA: 31                              
+Supres  : 0	                            CTA: 0       TTA: 0     
+Cys     : 24	  ACA: 0       GCA: 24                              
+Trp     : 32	                            CCA: 32                 
+SelCys  : 0	                                         TCA: 0     
+

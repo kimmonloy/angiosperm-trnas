@@ -1,0 +1,222 @@
+NC_029998.1.trna1 (10831-10907)	Length: 77 bp
+Type: Met	Anticodon: CAT at 35-37 (10865-10867)	Score: 58.4
+HMM Sc=34.70	Sec struct Sc=23.70
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GGGCTTATAGTTTAATTGGTtGAAACGTACCGCTCATAACGGTTATAtTGTAGGTTCGAGCCCTACTAAGCCTACCA
+Str: >>>>>>>..>>>>.........<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<....
+
+NC_029998.1.trna2 (100270-100343)	Length: 74 bp
+Type: Asp	Anticodon: GTC at 35-37 (100304-100306)	Score: 65.8
+HMM Sc=48.30	Sec struct Sc=17.50
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGGATTGTAGTTCAATCGGTcAGAGCACCGCCCTGTCAAGGCGGAAGcTGCGGGTTCGAGCCCCGTCAGTCCCG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna3 (156358-156430)	Length: 73 bp
+Type: Lys	Anticodon: TTT at 34-36 (156391-156393)	Score: 75.0
+HMM Sc=59.70	Sec struct Sc=15.30
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GGGTGTATAGCTCAGTTGGTAGAGCATTGGGCTTTTAACCTAATGGtCGCAGGTTCAAGTCCTGCTATACCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna4 (157266-157352)	Length: 87 bp
+Type: Ser	Anticodon: TGA at 35-37 (157300-157302)	Score: 73.8
+HMM Sc=45.70	Sec struct Sc=28.10
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GGATGGATGTCTGAGCGGTtgAAAGAGTCGGTCTTGAAAACCGAAGTATTGATAGGAATACCGGGGGTTCGAATCCCTCTCCATCCG
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>>......<<<<<.>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna5 (168121-168190)	Length: 70 bp
+Type: Met	Anticodon: CAT at 30-32 (168150-168152)	Score: 18.2
+HMM Sc=0.00	Sec struct Sc=18.20
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: GTCACGATCTGAAAGGTtGAAATCTGGGTCATGcaTCTGGAAAGCGCTGGTTCAAATCCGGCTCGTGACA
+Str: >>>>>>>..>..........<.>>>>>.........<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna6 (181741-181813)	Length: 73 bp
+Type: Met	Anticodon: CAT at 34-36 (181774-181776)	Score: 58.4
+HMM Sc=43.00	Sec struct Sc=15.40
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: AGCGGGGTAGAGTAATGGTtAACTCGTCAGGCTCATAATCTGTAGAaTGCAGGTTCGAATCCTGCCCCCGCCT
+Str: .>>>>>>..>>>>........<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<..
+
+NC_029998.1.trna7 (191884-191955)	Length: 72 bp
+Type: Glu	Anticodon: TTC at 34-36 (191917-191919)	Score: 60.8
+HMM Sc=35.80	Sec struct Sc=25.00
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GTCCCTTTCGTCCAGTGGTtAGGACATCGTCTTTTCATGTCGAAGACACGGGTTCGATTCCCGTAAGGGATA
+Str: >>>>>>>..>>>>........<<<<.>>>.>.......<.<<<....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna8 (220222-220292)	Length: 71 bp
+Type: Cys	Anticodon: GCA at 33-35 (220254-220256)	Score: 49.0
+HMM Sc=34.00	Sec struct Sc=15.00
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GGCTAGGTAACATAATGGAAATGTATCGGACTGCAAATCCTGGAATGACGGTTCGACCCCGTCCTTGGCCT
+Str: >>>>>>>..>>>>.......<<<<.>.>>>.......<<<.<....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna9 (222430-222501)	Length: 72 bp
+Type: Asn	Anticodon: GTT at 33-35 (222462-222464)	Score: 68.2
+HMM Sc=44.70	Sec struct Sc=23.50
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TCCTCAGTAGCTCAGTGGTAGAGCGGTCGGCTGTTAACTGACTGGtCGTAGGTTCAAATCCTACTTGGGGAG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna10 (223397-223479)	Length: 83 bp
+Type: Tyr	Anticodon: GTA at 35-37 (223431-223433)	Score: 69.3
+HMM Sc=54.80	Sec struct Sc=14.50
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GGGAGAGTGGCCGAGTGGTcaAAAGCGACAGACTGTAAATCTGTTGAAGTTTTTCTaCGTAGGTTCGAATCCTGCCTCTCCCA
+Str: >>>>>>>..>>.............<<.>>>>>.......<<<<<.>>>....<<<...>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna11 (371428-371514)	Length: 87 bp
+Type: Ser	Anticodon: GGA at 35-37 (371462-371464)	Score: 73.6
+HMM Sc=47.00	Sec struct Sc=26.60
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GGAGAGATGGCCGAGTGGTtcAAGGCGTAGCATTGGAACTGCTATGTAGGCTTTTGTTTACCGAGGGTTCGAATCCCTCTCTTTCCG
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>>>....<<<<<<.>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna12 (375063-375140)	Length: 78 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 26.7
+HMM Sc=0.00	Sec struct Sc=26.70
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *  
+Seq: GTCACGATcAGAATGAAAGGTAGTTCGgCTGGGTaTGTTTtttACCCAGAGGTGCTGGTTCGAGTCCAGCTCGTGACG
+Str: >>>>>>>...>>>>........<<<<..>>>>>...........<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna13 (379103-379207)	Length: 105 bp
+Type: Ala	Anticodon: TGC at 34-36 (379136-379138)	Score: 16.3
+Possible intron: 38-77 (379140-379179)
+HMM Sc=25.30	Sec struct Sc=-9.00
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: GGGGATATAGCTCAGTTGGTAGAGCTCCGCTCTTGCAattgggtcgttgcgattacgggttgggtgtctaattgtccAGGCGGTAAtGATAGTATcTTGTACCTG
+Str: >>>.>>>..>>>>........<<<<.>>>>>...............................................<<<<<.....>.......<<<<.<<<.
+
+NC_029998.1.trna14 (384098-384171)	Length: 74 bp
+Type: Trp	Anticodon: CCA at 35-37 (384132-384134)	Score: 71.9
+HMM Sc=42.90	Sec struct Sc=29.00
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCGCTCTTAGTTCAGTTcGGTAGAACGCGGGTCTCCAAAACCCGATGtCGTAGGTTCAAATCCTACAGAGCGTG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna15 (551481-551554)	Length: 74 bp
+Type: Asp	Anticodon: GTC at 35-37 (551515-551517)	Score: 65.8
+HMM Sc=48.30	Sec struct Sc=17.50
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGGATTGTAGTTCAATCGGTcAGAGCACCGCCCTGTCAAGGCGGAAGcTGCGGGTTCGAGCCCCGTCAGTCCCG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna16 (566851-566936)	Length: 86 bp
+Type: Ile	Anticodon: TAT at 34-36 (566884-566886)	Score: 41.2
+Possible intron: 38-49 (566888-566899)
+HMM Sc=37.60	Sec struct Sc=3.60
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GCATCCATGGCTGAATGGTtAAAGCGCCCAACCTATAccaacctaataaAGAGGCAAATTCGTAGGTTCGATTCCTGCTGGATGCA
+Str: >>>>>>>..>>>..........<<<..>>.......................<<.......>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna17 (582189-582260)	Length: 72 bp
+Type: Gly	Anticodon: GCC at 33-35 (582221-582223)	Score: 63.4
+HMM Sc=48.20	Sec struct Sc=15.20
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCGGAAATAGCTTAATGGTAGAGCATAGCCTTGCCAAGGCTGAGGtTGAGGGTTCAAGTCCCTCCTTCCGCT
+Str: >>>>>>...>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<.<<<<<<.
+
+NC_029998.1.trna18 (584454-584525)	Length: 72 bp
+Type: Gln	Anticodon: TTG at 33-35 (584486-584488)	Score: 64.9
+HMM Sc=39.90	Sec struct Sc=25.00
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TGGAGTATAGCCAAGTGGTAAGGCATCGGTTTTTGGTACCGGCATgCAAAGGTTCGAATCCTTTTACTCCAG
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna19 (576576-576504)	Length: 73 bp
+Type: Met	Anticodon: CAT at 34-36 (576543-576541)	Score: 64.6
+HMM Sc=33.80	Sec struct Sc=30.80
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: ACCTACTTGACTCAGCGGTtAGAGTATCGCTTTCATACGGCGAGAGtCATTGGTTCAAATCCAATAGTAGGTA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna20 (551283-551195)	Length: 89 bp
+Type: Sup	Anticodon: TTA at 32-34 (551252-551250)	Score: 27.5
+Possible intron: 36-49 (551248-551235)
+HMM Sc=18.20	Sec struct Sc=9.30
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *   
+Seq: GCCCTTTAACTAAGCGGTAGAGTCGCGCTCTTTAAacgccctaagaaatAGGCGTAAGtCGTCGGTTCAAATCCGATAAaaaaAGGGCT
+Str: >>>>>>..>>>.........<<<.>>>>>.....................<<<<<.....>>>>>.......<<<<<<<.....<<<<.
+
+NC_029998.1.trna21 (478750-478678)	Length: 73 bp
+Type: Met	Anticodon: CAT at 34-36 (478717-478715)	Score: 52.4
+HMM Sc=33.40	Sec struct Sc=19.00
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: ACCTACTTGACTCAGCGGTtAGAGTATCGCTTTCATACGGCAAGAGtCATTGGTTCAAATCCAATAGTAGGTA
+Str: >>>>>>>..>>>>........<<<<.>.>>>.......<<<.<.....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna22 (454654-454575)	Length: 80 bp
+Type: Gln	Anticodon: TTG at 35-37 (454620-454618)	Score: 32.6
+Possible intron: 39-45 (454616-454610)
+HMM Sc=25.30	Sec struct Sc=7.30
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: AGGGATGTGGCGCAGCTtGGTAGCGTCTTATGTTTTGGattggatACAAAATGTCACGGGTTCCAATCTTGTCATCCCTA
+Str: >>>>>>>..>>>>.........<<<<.>>.>>..............<<.<<....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna23 (454430-454357)	Length: 74 bp
+Type: Trp	Anticodon: CCA at 35-37 (454396-454394)	Score: 68.7
+HMM Sc=42.90	Sec struct Sc=25.80
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCGCTCTTAGTTCAGTTcGGTAGAACGTGGGTCTCCAAAACCCGATGtCGTAGGTTCAAATCCTACAGAGCGTG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna24 (445199-445128)	Length: 72 bp
+Type: Val	Anticodon: GAC at 33-35 (445167-445165)	Score: 36.5
+HMM Sc=25.10	Sec struct Sc=11.40
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: AGGGATATAACTTTGCGGTAGAGTGTCACCTTGACGCGGAGGTGGtCATCAGTTCGAGTCAGATTATCCCTA
+Str: >>>>>>>..>>>>.......<<<<.>>.>>.......<<.<<.....>>>.>.......<.<<<<<<<<<<.
+
+NC_029998.1.trna25 (434364-434291)	Length: 74 bp
+Type: Asp	Anticodon: GTC at 35-37 (434330-434328)	Score: 53.7
+HMM Sc=39.50	Sec struct Sc=14.20
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGGATTGTTGTTCAATTTGTcAGAGAACCGCCCTGTCAAGGCGGAAGtTGCGGGTTCAAGTCCCGTCAGTCCCG
+Str: >>>>>>>...>>>.........<<<..>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna26 (339577-339490)	Length: 88 bp
+Type: Ser	Anticodon: GCT at 35-37 (339543-339541)	Score: 64.7
+HMM Sc=44.10	Sec struct Sc=20.60
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *  
+Seq: GGAGGGATGGCTGAGTGGCttAAGGCATTGGTTTGCTAAATCGACATACAAGAAAATTGTATCATGGGTTCGAATCCCATTTCCTCCG
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>>>.....<<<<<<.>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna27 (339142-339069)	Length: 74 bp
+Type: Phe	Anticodon: GAA at 35-37 (339108-339106)	Score: 61.0
+HMM Sc=47.10	Sec struct Sc=13.90
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GTTCAGGTAGCTCAGCTGGTtAGAGCAAAGGACTGAAAATCCTTGTGtCAGTGGTTCGAATCCACTTCTAAGCG
+Str: >>>.>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<<<.
+
+NC_029998.1.trna28 (338849-338774)	Length: 76 bp
+Type: Pro	Anticodon: TGG at 37-39 (338813-338811)	Score: 55.5
+HMM Sc=37.90	Sec struct Sc=17.60
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: CGAGGTaGTAGCGCAGTCtGGTcAGCGCATCTGTTTTGGGTACAGAGGGcCATAGGTTCGAATCCTGTCACCTTGA
+Str: >>>>>>.>..>>>>..........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna29 (189873-189800)	Length: 74 bp
+Type: His	Anticodon: GTG at 35-37 (189839-189837)	Score: 58.5
+HMM Sc=40.50	Sec struct Sc=18.00
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCGGATGTAGCCAAGTGGAtcAAGGCAGTGGATTGTGAATCCACCACgCGCGGGTTCAATCCCCGTCGTTCGCC
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+NC_029998.1.trna30 (100072-99984)	Length: 89 bp
+Type: Sup	Anticodon: TTA at 32-34 (100041-100039)	Score: 27.5
+Possible intron: 36-49 (100037-100024)
+HMM Sc=18.20	Sec struct Sc=9.30
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *   
+Seq: GCCCTTTAACTAAGCGGTAGAGTCGCGCTCTTTAAacgccctaagaaatAGGCGTAAGtCGTCGGTTCAAATCCGATAAaaaaAGGGCT
+Str: >>>>>>..>>>.........<<<.>>>>>.....................<<<<<.....>>>>>.......<<<<<<<.....<<<<.
+
+NC_029998.1.trna31 (24601-24529)	Length: 73 bp
+Type: Met	Anticodon: CAT at 34-36 (24568-24566)	Score: 58.4
+HMM Sc=43.00	Sec struct Sc=15.40
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: AGCGGGGTAGAGTAATGGTtAACTCGTCAGGCTCATAATCTGTAGAaTGCAGGTTCGAATCCTGCCCCCGCCT
+Str: .>>>>>>..>>>>........<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<..
+

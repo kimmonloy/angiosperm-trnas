@@ -1,0 +1,69 @@
+EukHighConfidenceFilter v1.0 Summary
+Completed Time: Tue Sep 20 00:03:42 2022
+
+Inputs
+------------------------------------------------------
+tRNAscan-SE output file: Cquinoa_392_v1.0_trnascan-se.output
+tRNAscan-SE ss file: Cquinoa_392_v1.0_trnascan-se.struct
+Secondary filtering domain-specific model score cutoff: 50
+Secondary filtering secondary structure score cutoff: 10
+Secondary filtering isotype-specific model score cutoff: 70
+Tertiary filtering isotype-specific model starting score cutoff: 70
+Tertiary filtering maximum isotype-specific model score cutoff: 95
+Remove filtered hits: Yes
+
+Outputs
+------------------------------------------------------
+tRNAscan-SE output file: hi_conf_Cquinoa/Cquinoa_392_v1.0.out
+tRNAscan-SE ss file: hi_conf_Cquinoa/Cquinoa_392_v1.0.ss
+Summary file: hi_conf_Cquinoa/Cquinoa_392_v1.0.log
+
+Summary statistics
+------------------------------------------------------
+Total tRNA predictions:                                3130
+Possible pseudogenes:                                  282
+tRNAs with scores lower than secondary cutoffs:        1915
+tRNAs failed tertiary filter:                          21
+
+tRNAs after filtering:                                 912
+
+tRNAs with mismatched isotype:                         18
+tRNAs with undetermined isotype:                       0
+tRNAs with unexpected anticodon:                       11
+
+High confidence set:                                   883
+
+Tertiary filter - anticodon counts
+------------------------------------------------------
+
+Isotype  Anticodon  BeforeFiltering  AfterFiltering  FinalScoreCutoff
+Asp      GTC        57               40              88              
+Met      CAT        42               40              92              
+Phe      GAA        42               40              72              
+
+Isotype / Anticodon Counts After Filtering
+------------------------------------------------------
+
+Ala     : 61	  AGC: 30      GGC: 0       CGC: 9       TGC: 22    
+Gly     : 64	  ACC: 0       GCC: 36      CCC: 8       TCC: 20    
+Pro     : 42	  AGG: 18      GGG: 0       CGG: 4       TGG: 20    
+Thr     : 45	  AGT: 20      GGT: 4       CGT: 7       TGT: 14    
+Val     : 56	  AAC: 33      GAC: 0       CAC: 11      TAC: 12    
+Ser     : 74	  AGA: 22      GGA: 7       CGA: 7       TGA: 12      ACT: 0       GCT: 26                              
+Arg     : 69	  ACG: 21      GCG: 0       CCG: 7       TCG: 12                                CCT: 15      TCT: 14    
+Leu     : 75	  AAG: 19      GAG: 0       CAG: 5       TAG: 20                                CAA: 21      TAA: 10    
+Phe     : 40	  AAA: 0       GAA: 40                              
+Asn     : 39	  ATT: 0       GTT: 39                              
+Lys     : 52	                            CTT: 29      TTT: 23    
+Asp     : 40	  ATC: 0       GTC: 40                              
+Glu     : 49	                            CTC: 28      TTC: 21    
+His     : 19	  ATG: 0       GTG: 19                              
+Gln     : 31	                            CTG: 18      TTG: 13    
+Ile     : 40	  AAT: 28      GAT: 0                    TAT: 12    
+Met     : 40	                            CAT: 40                 
+Tyr     : 35	  ATA: 0       GTA: 35                              
+Supres  : 0	                            CTA: 0       TTA: 0     
+Cys     : 19	  ACA: 1       GCA: 18                              
+Trp     : 22	                            CCA: 22                 
+SelCys  : 0	                                         TCA: 0     
+

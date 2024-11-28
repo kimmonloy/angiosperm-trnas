@@ -1,0 +1,79 @@
+
+tRNAscan-SE v.2.0.9 (July 2021) scan results (on host saliksik-cpu-07.coare.local)
+Started: Mon Feb 20 03:24:33 PST 2023
+
+------------------------------------------------------------
+Sequence file(s) to search:        Bdistachyon_cp.fa
+Search Mode:                       Organellar
+Results written to:                Bdistachyon_cp.output
+Output format:                     Tabular
+Searching with:                    Infernal single-pass scan
+                                   Maximum sensitivity mode
+Covariance model:                  /home/kim.monloy/.conda/envs/trnascan-se/lib/tRNAscan-SE/models/TRNAinf-1415.cm
+tRNA covariance model search       
+    cutoff score:                  15
+
+Temporary directory:               /tmp
+tRNA secondary structure
+    predictions saved to:          Bdistachyon_cp.struct
+tRNA predictions saved to:         Bdistachyon_cp.bed
+tRNA predictions saved to:         Bdistachyon_cp.gff3
+Predicted tRNA sequences
+    saved to:                      Bdistachyon_cp.trnas.fa
+Search statistics saved in:        Bdistachyon_cp.stats
+
+Pseudogene checking disabled
+Reporting HMM/2' structure score breakdown
+------------------------------------------------------------
+
+Infernal Stats:
+-----------
+Sequences read:           1
+Infernal-confirmed tRNAs:     35
+Bases scanned by Infernal:  135199
+% seq scanned by Infernal:  100.0 %
+Script CPU time:          0.11 s
+Infernal CPU time:            109.01 s
+Scan speed:               1240.2 bp/sec
+
+Infernal analysis of tRNAs ended: Mon Feb 20 03:31:02 PST 2023
+
+Overall scan speed: 1239.0 bp/sec
+
+tRNAs decoding Standard 20 AA:              35
+Selenocysteine tRNAs (TCA):                 0
+Possible suppressor tRNAs (CTA,TTA,TCA):    0
+tRNAs with undetermined/unknown isotypes:   0
+Predicted pseudogenes:                      0
+                                            -------
+Total tRNAs:                                35
+
+tRNAs with introns:     	4
+
+| Ala-TGC: 2 | Ile-GAT: 2 |
+
+Isotype / Anticodon Counts:
+
+Ala     : 2	  AGC:         GGC:         CGC:         TGC: 2     
+Gly     : 1	  ACC:         GCC: 1       CCC:         TCC:       
+Pro     : 1	  AGG:         GGG:         CGG:         TGG: 1     
+Thr     : 2	  AGT:         GGT: 1       CGT:         TGT: 1     
+Val     : 2	  AAC:         GAC: 2       CAC:         TAC:       
+Ser     : 3	  AGA:         GGA: 1       CGA:         TGA: 1       ACT:         GCT: 1     
+Arg     : 3	  ACG: 2       GCG:         CCG:         TCG:         CCT:         TCT: 1     
+Leu     : 3	  AAG:         GAG:         CAG:         TAG: 1       CAA: 2       TAA:       
+Phe     : 1	  AAA:         GAA: 1                               
+Asn     : 2	  ATT:         GTT: 2                               
+Lys     : 0	                            CTT:         TTT:       
+Asp     : 1	  ATC:         GTC: 1                               
+Glu     : 1	                            CTC:         TTC: 1     
+His     : 2	  ATG:         GTG: 2                               
+Gln     : 1	                            CTG:         TTG: 1     
+Ile     : 2	  AAT:         GAT: 2       CAT:         TAT:       
+Met     : 5	                            CAT: 5                  
+Tyr     : 1	  ATA:         GTA: 1                               
+Supres  : 0	               CTA:         TTA:         TCA:       
+Cys     : 1	  ACA:         GCA: 1                               
+Trp     : 1	                            CCA: 1                  
+SelCys  : 0	                                         TCA:       
+

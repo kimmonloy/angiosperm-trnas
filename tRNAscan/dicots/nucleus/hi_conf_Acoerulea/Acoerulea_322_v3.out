@@ -1,0 +1,604 @@
+Sequence		tRNA    	Bounds  	tRNA	Anti	Intron Bounds	Inf	HMM	2'Str	Hit	Isotype	Isotype	      
+Name    	tRNA#	Begin   	End     	Type	Codon	Begin	End	Score	Score	Score	Origin	CM	Score	Note
+--------	------	-----   	------  	----	-----	-----	----	------	-----	-----	------	-------	-------	------
+Chr_01	1	781816	781897	Ser	GCT	0	0	80.5	45.20	35.30	Inf	Ser	109.5	high confidence set
+Chr_01	3	2558129	2558200	Gly	TCC	0	0	71.0	46.70	24.30	Inf	Gly	82.3	high confidence set
+Chr_01	4	2561798	2561869	Gly	TCC	0	0	73.9	46.20	27.70	Inf	Gly	85.6	high confidence set
+Chr_01	5	2709872	2709944	Arg	CCT	0	0	74.8	55.90	18.90	Inf	Arg	84.6	high confidence set
+Chr_01	6	2718790	2718861	Thr	TGT	0	0	77.5	50.20	27.30	Inf	Thr	86.5	high confidence set
+Chr_01	7	2719111	2719182	Thr	TGT	0	0	63.6	44.30	19.30	Inf	Thr	73.6	high confidence set
+Chr_01	8	3028911	3028982	Gly	TCC	0	0	71.0	46.70	24.30	Inf	Gly	82.3	high confidence set
+Chr_01	9	3128292	3128362	Gly	GCC	0	0	66.5	44.80	21.70	Inf	Gly	94.4	high confidence set
+Chr_01	10	3664522	3664595	Asn	GTT	0	0	84.5	59.40	25.10	Inf	Asn	95.9	high confidence set
+Chr_01	11	4323185	4323257	Glu	CTC	0	0	78.9	53.10	25.80	Inf	Glu	99.2	high confidence set
+Chr_01	12	4414018	4414090	Lys	CTT	0	0	76.3	57.30	19.00	Inf	Lys	96.1	high confidence set
+Chr_01	13	5000972	5001053	Ser	AGA	0	0	80.3	44.00	36.30	Inf	Ser	115.3	high confidence set
+Chr_01	14	5010980	5011050	Gly	GCC	0	0	66.5	44.80	21.70	Inf	Gly	94.4	high confidence set
+Chr_01	15	5258446	5258519	Val	CAC	0	0	82.4	54.40	28.00	Inf	Val	103.7	high confidence set
+Chr_01	17	6079383	6079465	Leu	TAA	0	0	68.4	29.10	39.30	Inf	Leu	90.1	high confidence set
+Chr_01	19	6272734	6272807	Glu	TTC	0	0	72.1	45.30	26.80	Inf	Glu	93.3	high confidence set
+Chr_01	20	6287424	6287496	Arg	TCT	0	0	68.5	50.60	17.90	Inf	Arg	98.8	high confidence set
+Chr_01	21	6943532	6943605	Val	AAC	0	0	72.2	47.80	24.40	Inf	Val	98.2	high confidence set
+Chr_01	22	6960930	6961002	Ala	TGC	0	0	69.1	43.30	25.80	Inf	Ala	101.9	high confidence set
+Chr_01	23	7162951	7163023	Phe	GAA	0	0	78.3	58.40	19.90	Inf	Phe	113.2	high confidence set
+Chr_01	24	8115165	8115237	Arg	CCT	0	0	69.1	50.30	18.80	Inf	Arg	81.2	high confidence set
+Chr_01	25	8777211	8777285	Arg	TCT	0	0	65.3	50.60	14.70	Inf	Ile	77.3	IPD:-24.20,isotype mismatch
+Chr_01	26	9017516	9017590	Lys	TTT	0	0	69.6	47.20	22.40	Inf	Ile	85.0	IPD:-15.60,isotype mismatch
+Chr_01	27	11049546	11049618	Val	TAC	0	0	73.3	38.80	34.50	Inf	Val	106.0	high confidence set
+Chr_01	28	11082111	11082182	Asn	GTT	0	0	77.9	55.60	22.30	Inf	Asn	78.1	high confidence set
+Chr_01	29	11387627	11387699	Arg	ACG	0	0	72.5	49.90	22.60	Inf	Arg	93.8	high confidence set
+Chr_01	30	12006552	12006631	Leu	TAG	0	0	69.5	48.50	21.00	Inf	Leu	111.5	high confidence set
+Chr_01	31	12888701	12888772	iMet	CAT	0	0	58.3	28.10	30.20	Inf	iMet	118.7	high confidence set
+Chr_01	32	12891258	12891329	iMet	CAT	0	0	58.3	28.10	30.20	Inf	iMet	118.7	high confidence set
+Chr_01	33	14039829	14039901	Ala	TGC	0	0	56.3	37.30	19.00	Inf	Ala	86.4	high confidence set
+Chr_01	34	14173316	14173388	Phe	GAA	0	0	78.3	58.40	19.90	Inf	Phe	113.2	high confidence set
+Chr_01	35	14923515	14923587	Ala	TGC	0	0	69.1	43.30	25.80	Inf	Ala	101.9	high confidence set
+Chr_01	37	17903284	17903355	Gly	TCC	0	0	73.9	46.20	27.70	Inf	Gly	85.6	high confidence set
+Chr_01	40	18969297	18969370	Ile	TAT	0	0	85.9	70.60	15.30	Inf	Ile	103.9	high confidence set
+Chr_01	41	20279945	20280024	Leu	TAG	0	0	70.9	50.70	20.20	Inf	Leu	109.5	high confidence set
+Chr_01	43	22286791	22286864	Asn	GTT	0	0	84.6	56.00	28.60	Inf	Ile	88.8	IPD:-13.30,isotype mismatch
+Chr_01	45	22824799	22824870	Gln	CTG	0	0	75.3	51.20	24.10	Inf	Gln	103.1	high confidence set
+Chr_01	52	26626675	26626749	Sup	TTA	0	0	76.5	53.60	22.90	Inf	Ile	79.0	IPD:-79.00,unexpected anticodon
+Chr_01	64	31280741	31280814	Gln	TTG	0	0	75.5	55.10	20.40	Inf	Ile	81.5	IPD:-43.10,isotype mismatch
+Chr_01	65	33743696	33743768	Ala	TGC	0	0	69.1	43.30	25.80	Inf	Ala	101.9	high confidence set
+Chr_01	69	35525819	35525891	Ala	AGC	0	0	63.4	38.20	25.20	Inf	Ala	98.3	high confidence set
+Chr_01	70	37181933	37182007	Sup	TCA	0	0	79.2	54.00	25.20	Inf	Ile	86.8	IPD:-86.80,unexpected anticodon
+Chr_01	72	37597648	37597722	Sup	TCA	0	0	68.0	52.10	15.90	Inf	Ile	72.0	IPD:-72.00,unexpected anticodon
+Chr_01	74	39212457	39212528	Gln	CTG	0	0	74.0	49.50	24.50	Inf	Gln	100.1	high confidence set
+Chr_01	75	40258950	40259024	Lys	TTT	0	0	79.8	54.00	25.80	Inf	Ile	88.8	IPD:-9.10,isotype mismatch
+Chr_01	77	40996437	40996516	Leu	TAG	0	0	69.5	48.50	21.00	Inf	Leu	111.5	high confidence set
+Chr_01	78	41275531	41275602	Cys	GCA	0	0	78.5	49.70	28.80	Inf	Cys	101.9	high confidence set
+Chr_01	81	42406357	42406429	Ala	TGC	0	0	69.1	43.30	25.80	Inf	Ala	101.9	high confidence set
+Chr_01	82	42416386	42416458	Lys	CTT	0	0	87.7	67.60	20.10	Inf	Lys	106.7	high confidence set
+Chr_01	83	42497605	42497676	Pro	AGG	0	0	67.4	34.70	32.70	Inf	Pro	112.3	high confidence set
+Chr_01	84	42629932	42630005	Val	AAC	0	0	71.9	47.50	24.40	Inf	Val	99.9	high confidence set
+Chr_01	85	43226175	43226246	Gly	TCC	0	0	65.5	41.10	24.40	Inf	Gly	78.0	high confidence set
+Chr_01	86	43751500	43751573	Ile	AAT	0	0	80.4	57.00	23.40	Inf	Ile	100.9	high confidence set
+Chr_01	87	43779352	43779437	Met	CAT	43779390	43779401	64.2	40.80	23.40	Inf	Met	104.0	high confidence set
+Chr_01	88	43991625	43991697	Arg	ACG	0	0	63.7	49.40	14.30	Inf	Arg	85.1	high confidence set
+Chr_01	89	44084176	44084257	Ser	AGA	0	0	77.4	43.10	34.30	Inf	Ser	111.1	high confidence set
+Chr_01	90	44768095	44768166	Trp	CCA	0	0	75.8	51.20	24.60	Inf	Trp	105.6	high confidence set
+Chr_01	91	44776766	44776695	Lys	TTT	0	0	80.4	65.10	15.30	Inf	Lys	85.9	high confidence set
+Chr_01	92	44643280	44643208	Arg	CCT	0	0	69.1	50.30	18.80	Inf	Arg	81.2	high confidence set
+Chr_01	93	44224109	44224038	Pro	AGG	0	0	67.4	34.70	32.70	Inf	Pro	112.3	high confidence set
+Chr_01	94	43656087	43656002	Met	CAT	43656049	43656038	64.2	40.80	23.40	Inf	Met	104.0	high confidence set
+Chr_01	95	43193321	43193248	Arg	TCG	0	0	82.3	61.00	21.30	Inf	Arg	91.9	high confidence set
+Chr_01	96	42861098	42861025	Glu	TTC	0	0	72.1	45.30	26.80	Inf	Glu	93.3	high confidence set
+Chr_01	97	42678774	42678703	Cys	GCA	0	0	78.8	53.50	25.30	Inf	Cys	104.3	high confidence set
+Chr_01	98	42544449	42544377	Arg	CCG	0	0	83.0	63.20	19.80	Inf	Arg	85.9	high confidence set
+Chr_01	100	42282574	42282502	Lys	CTT	0	0	87.7	67.60	20.10	Inf	Lys	106.7	high confidence set
+Chr_01	101	42250616	42250543	Asn	GTT	0	0	82.7	57.30	25.40	Inf	Asn	95.4	high confidence set
+Chr_01	102	42060154	42060083	Lys	TTT	0	0	80.4	65.10	15.30	Inf	Lys	85.9	high confidence set
+Chr_01	103	42015249	42015178	Lys	TTT	0	0	80.4	65.10	15.30	Inf	Lys	85.9	high confidence set
+Chr_01	104	41967444	41967373	Pro	AGG	0	0	67.4	34.70	32.70	Inf	Pro	112.3	high confidence set
+Chr_01	106	40851264	40851181	Tyr	GTA	40851227	40851217	72.8	40.90	31.90	Inf	Tyr	106.1	high confidence set
+Chr_01	107	40357850	40357778	Arg	ACG	0	0	72.5	49.90	22.60	Inf	Arg	90.9	high confidence set
+Chr_01	108	39578500	39578428	Ala	AGC	0	0	63.4	38.20	25.20	Inf	Ala	98.3	high confidence set
+Chr_01	110	39032714	39032641	Ile	TAT	0	0	85.9	70.60	15.30	Inf	Ile	103.9	high confidence set
+Chr_01	112	37971609	37971537	Ala	AGC	0	0	63.4	38.20	25.20	Inf	Ala	98.3	high confidence set
+Chr_01	114	35952346	35952261	Met	CAT	35952308	35952297	53.8	40.60	13.20	Inf	Met	80.2	high confidence set
+Chr_01	116	33663649	33663578	Lys	TTT	0	0	80.4	65.10	15.30	Inf	Lys	85.9	high confidence set
+Chr_01	122	29146393	29146317	Val	AAC	0	0	59.2	43.20	16.00	Inf	Val	75.5	high confidence set
+Chr_01	123	28602689	28602618	Gln	CTG	0	0	72.2	48.10	24.10	Inf	Gln	101.2	high confidence set
+Chr_01	128	23734508	23734434	Sup	TCA	0	0	55.8	38.60	17.20	Inf	Ile	71.1	IPD:-71.10,unexpected anticodon
+Chr_01	132	21648983	21648911	Phe	GAA	0	0	63.0	50.30	12.70	Inf	Phe	82.2	high confidence set
+Chr_01	139	17059070	17058997	Glu	TTC	0	0	72.1	45.30	26.80	Inf	Glu	93.3	high confidence set
+Chr_01	142	15077068	15076995	Ile	TAT	0	0	85.9	70.60	15.30	Inf	Ile	103.9	high confidence set
+Chr_01	143	13783656	13783585	Asp	GTC	0	0	66.4	46.50	19.90	Inf	Asp	91.0	high confidence set
+Chr_01	146	12180805	12180731	Sup	TCA	0	0	73.4	53.70	19.70	Inf	Ile	76.8	IPD:-76.80,unexpected anticodon
+Chr_01	147	11581473	11581401	Phe	GAA	0	0	78.3	58.40	19.90	Inf	Phe	113.2	high confidence set
+Chr_01	149	10997600	10997528	Glu	CTC	0	0	78.9	53.10	25.80	Inf	Glu	99.2	high confidence set
+Chr_01	151	8683926	8683841	Tyr	GTA	8683889	8683877	66.5	38.70	27.80	Inf	Tyr	100.8	high confidence set
+Chr_01	152	8514202	8514132	Gly	GCC	0	0	66.5	44.80	21.70	Inf	Gly	94.4	high confidence set
+Chr_01	154	7965610	7965530	Leu	AAG	0	0	74.0	52.20	21.80	Inf	Leu	110.4	high confidence set
+Chr_01	155	7242852	7242761	Tyr	GTA	7242815	7242797	73.5	41.60	31.90	Inf	Tyr	106.6	high confidence set
+Chr_01	156	7159171	7159088	Leu	TAA	0	0	68.9	37.40	31.50	Inf	Leu	93.8	high confidence set
+Chr_01	157	7005295	7005224	Pro	AGG	0	0	67.4	34.70	32.70	Inf	Pro	112.3	high confidence set
+Chr_01	158	6766816	6766745	Pro	AGG	0	0	67.4	34.70	32.70	Inf	Pro	112.3	high confidence set
+Chr_01	161	5942832	5942752	Leu	AAG	0	0	74.0	52.20	21.80	Inf	Leu	110.4	high confidence set
+Chr_01	162	4996328	4996257	Pro	AGG	0	0	66.9	34.20	32.70	Inf	Pro	112.6	high confidence set
+Chr_01	163	4647981	4647909	Arg	TCT	0	0	68.8	51.20	17.60	Inf	Arg	94.8	high confidence set
+Chr_01	164	2710099	2710027	Lys	CTT	0	0	87.7	67.60	20.10	Inf	Lys	106.7	high confidence set
+Chr_01	168	1004132	1004059	Asn	GTT	0	0	84.5	59.40	25.10	Inf	Asn	95.9	high confidence set
+Chr_02	1	850415	850486	Gly	TCC	0	0	73.9	46.20	27.70	Inf	Gly	85.6	high confidence set
+Chr_02	5	3605216	3605290	Sup	TTA	0	0	75.5	52.60	22.90	Inf	Ile	77.9	IPD:-77.90,unexpected anticodon
+Chr_02	6	4150026	4150098	Arg	CCT	0	0	69.1	50.30	18.80	Inf	Arg	81.2	high confidence set
+Chr_02	7	5898561	5898633	Ala	AGC	0	0	63.4	38.20	25.20	Inf	Ala	98.3	high confidence set
+Chr_02	8	6360347	6360419	Lys	CTT	0	0	87.7	67.60	20.10	Inf	Lys	106.7	high confidence set
+Chr_02	11	6480770	6480853	Leu	CAA	0	0	76.7	54.50	22.20	Inf	Leu	123.1	high confidence set
+Chr_02	13	7811968	7812041	Ile	AAT	0	0	84.9	58.30	26.60	Inf	Ile	109.3	high confidence set
+Chr_02	21	10527682	10527762	Leu	AAG	0	0	74.0	52.20	21.80	Inf	Leu	110.4	high confidence set
+Chr_02	22	12583734	12583805	Cys	GCA	0	0	82.1	59.90	22.20	Inf	Cys	106.6	high confidence set
+Chr_02	25	14085935	14086009	Sup	TTA	0	0	65.7	47.40	18.30	Inf	Asn	73.7	IPD:-73.70,unexpected anticodon
+Chr_02	27	14106797	14106870	Sup	TTA	0	0	69.8	47.50	22.30	Inf	Ile	77.6	IPD:-77.60,unexpected anticodon
+Chr_02	28	14540046	14540119	Val	AAC	0	0	71.1	46.70	24.40	Inf	Val	95.4	high confidence set
+Chr_02	29	14615506	14615579	Val	AAC	0	0	72.2	47.80	24.40	Inf	Val	98.2	high confidence set
+Chr_02	30	14804369	14804450	Ser	AGA	0	0	53.4	30.70	22.70	Inf	Ser	79.7	high confidence set
+Chr_02	33	17786591	17786665	Sup	TCA	0	0	74.4	50.40	24.00	Inf	Ile	76.9	IPD:-76.90,unexpected anticodon
+Chr_02	38	22397873	22397947	Lys	TTT	0	0	77.4	55.00	22.40	Inf	Ile	90.2	IPD:-11.80,isotype mismatch
+Chr_02	39	23234217	23234303	Ser	GGA	0	0	62.1	32.30	29.80	Inf	Ser	81.3	unexpected anticodon
+Chr_02	43	23253016	23253089	Trp	CCA	0	0	72.0	42.50	29.50	Inf	Thr	75.4	IPD:-18.90,isotype mismatch
+Chr_02	45	23273244	23273315	Asn	GTT	0	0	81.8	56.80	25.00	Inf	Asn	82.9	high confidence set
+Chr_02	48	23324217	23324288	Asn	GTT	0	0	81.8	56.80	25.00	Inf	Asn	82.9	high confidence set
+Chr_02	61	23413713	23413786	Trp	CCA	0	0	72.0	42.50	29.50	Inf	Thr	75.4	IPD:-18.90,isotype mismatch
+Chr_02	63	23432990	23433061	Asn	GTT	0	0	81.8	56.80	25.00	Inf	Asn	82.9	high confidence set
+Chr_02	72	23715871	23715942	Arg	TCT	0	0	58.3	25.60	32.70	Inf	Gln	70.8	IPD:-24.50,isotype mismatch
+Chr_02	74	25265263	25265346	Tyr	GTA	25265300	25265310	73.8	42.00	31.80	Inf	Tyr	106.6	high confidence set
+Chr_02	75	25609287	25609358	Arg	TCT	0	0	58.3	25.60	32.70	Inf	Gln	70.8	IPD:-24.50,isotype mismatch
+Chr_02	76	26182315	26182386	Pro	AGG	0	0	60.6	35.70	24.90	Inf	Pro	98.8	high confidence set
+Chr_02	77	27613488	27613571	Leu	CAA	0	0	77.7	54.90	22.80	Inf	Leu	123.7	high confidence set
+Chr_02	78	28040061	28040131	Gly	GCC	0	0	66.5	44.80	21.70	Inf	Gly	94.4	high confidence set
+Chr_02	82	29907228	29907302	Sup	TCA	0	0	69.0	52.10	16.90	Inf	Ile	70.7	IPD:-70.70,unexpected anticodon
+Chr_02	83	30570471	30570552	Ser	GCT	0	0	80.5	45.20	35.30	Inf	Ser	109.5	high confidence set
+Chr_02	86	31907031	31907114	Met	CAT	31907069	31907078	64.3	40.80	23.50	Inf	Met	104.0	high confidence set
+Chr_02	90	33534393	33534465	Ala	AGC	0	0	63.4	38.20	25.20	Inf	Ala	98.3	high confidence set
+Chr_02	91	33547847	33547918	Pro	CGG	0	0	59.5	29.30	30.20	Inf	Pro	95.7	high confidence set
+Chr_02	92	35124761	35124832	Trp	CCA	0	0	75.1	50.10	25.00	Inf	Trp	105.0	high confidence set
+Chr_02	93	35332093	35332163	Gly	CCC	0	0	65.4	28.10	37.30	Inf	Gly	85.4	high confidence set
+Chr_02	94	35351540	35351610	Gly	CCC	0	0	65.4	28.10	37.30	Inf	Gly	85.4	high confidence set
+Chr_02	96	35902585	35902657	Ala	TGC	0	0	65.6	39.80	25.80	Inf	Ala	97.7	high confidence set
+Chr_02	98	36870772	36870844	Val	TAC	0	0	70.7	36.30	34.40	Inf	Val	100.4	high confidence set
+Chr_02	100	38086088	38086169	Ser	GCT	0	0	80.5	45.20	35.30	Inf	Ser	109.5	high confidence set
+Chr_02	102	38269617	38269690	Val	AAC	0	0	72.2	47.80	24.40	Inf	Val	98.2	high confidence set
+Chr_02	103	39213290	39213360	Gly	GCC	0	0	66.5	44.80	21.70	Inf	Gly	94.4	high confidence set
+Chr_02	104	40635079	40635152	Ile	AAT	0	0	84.9	58.30	26.60	Inf	Ile	109.3	high confidence set
+Chr_02	105	40663053	40663125	Val	TAC	0	0	71.5	39.00	32.50	Inf	Val	101.2	high confidence set
+Chr_02	107	41766836	41766910	Lys	TTT	0	0	72.9	50.70	22.20	Inf	Ile	87.6	IPD:-15.30,isotype mismatch
+Chr_02	108	41870433	41870504	His	GTG	0	0	63.0	33.70	29.30	Inf	His	91.2	high confidence set
+Chr_02	110	40570057	40569976	Ser	TGA	0	0	80.7	46.10	34.60	Inf	Ser	119.7	high confidence set
+Chr_02	113	39700566	39700493	Val	AAC	0	0	72.5	48.10	24.40	Inf	Val	100.2	high confidence set
+Chr_02	114	39550930	39550857	Ile	AAT	0	0	84.9	58.30	26.60	Inf	Ile	109.3	high confidence set
+Chr_02	115	39435299	39435227	Arg	CCG	0	0	65.7	49.40	16.30	Inf	Arg	91.4	high confidence set
+Chr_02	117	39191263	39191192	Gly	TCC	0	0	73.9	46.20	27.70	Inf	Gly	85.6	high confidence set
+Chr_02	118	38422816	38422743	Val	AAC	0	0	72.5	48.10	24.40	Inf	Val	100.2	high confidence set
+Chr_02	121	36609351	36609270	Ser	TGA	0	0	80.7	46.10	34.60	Inf	Ser	114.5	high confidence set
+Chr_02	122	36283722	36283651	Pro	AGG	0	0	65.9	38.60	27.30	Inf	Pro	109.4	high confidence set
+Chr_02	124	35518095	35518022	Thr	AGT	0	0	82.9	58.40	24.50	Inf	Thr	92.4	high confidence set
+Chr_02	125	35488716	35488643	Val	CAC	0	0	82.4	54.40	28.00	Inf	Val	103.7	high confidence set
+Chr_02	126	35280175	35280102	Asn	GTT	0	0	84.5	59.40	25.10	Inf	Asn	95.9	high confidence set
+Chr_02	127	34806612	34806532	Leu	AAG	0	0	72.4	52.20	20.20	Inf	Leu	110.6	high confidence set
+Chr_02	130	33920869	33920796	Thr	AGT	0	0	82.9	58.40	24.50	Inf	Thr	92.4	high confidence set
+Chr_02	131	32808901	32808830	Pro	TGG	0	0	68.9	36.50	32.40	Inf	Pro	109.4	high confidence set
+Chr_02	134	30922518	30922437	Ser	GCT	0	0	80.5	45.20	35.30	Inf	Ser	109.5	high confidence set
+Chr_02	136	29086354	29086281	Val	CAC	0	0	82.4	54.40	28.00	Inf	Val	103.7	high confidence set
+Chr_02	137	28980911	28980831	Leu	AAG	0	0	72.4	52.20	20.20	Inf	Leu	110.6	high confidence set
+Chr_02	140	27713983	27713909	Sup	TTA	0	0	72.1	51.00	21.10	Inf	Ile	79.3	IPD:-79.30,unexpected anticodon
+Chr_02	144	25598196	25598109	Ser	GCT	0	0	61.7	39.10	22.60	Inf	Ser	79.8	high confidence set
+Chr_02	145	25569397	25569325	Phe	GAA	0	0	78.3	58.40	19.90	Inf	Phe	113.2	high confidence set
+Chr_02	149	24553486	24553413	Glu	TTC	0	0	67.0	40.60	26.40	Inf	Glu	85.1	high confidence set
+Chr_02	150	24552443	24552370	Glu	TTC	0	0	62.2	45.10	17.10	Inf	Glu	85.4	high confidence set
+Chr_02	156	23629307	23629236	Asn	GTT	0	0	77.9	55.60	22.30	Inf	Asn	78.1	high confidence set
+Chr_02	157	23628194	23628112	Tyr	GTA	0	0	63.3	45.30	18.00	Inf	Leu	70.0	IPD:-5.00,isotype mismatch
+Chr_02	167	23396351	23396280	Undet	NNN	0	0	54.2	44.10	10.10	Inf	Thr	70.1	undetermined isotype
+Chr_02	177	23304010	23303940	Asn	GTT	0	0	69.6	45.40	24.20	Inf	Asn	72.0	high confidence set
+Chr_02	182	23235657	23235585	Thr	TGT	0	0	69.8	50.90	18.90	Inf	Thr	84.5	high confidence set
+Chr_02	183	22930417	22930345	Arg	TCT	0	0	69.1	51.80	17.30	Inf	Arg	93.8	high confidence set
+Chr_02	184	22480249	22480177	Arg	CCT	0	0	71.7	55.90	15.80	Inf	Arg	84.3	high confidence set
+Chr_02	185	22176880	22176809	Cys	GCA	0	0	82.1	59.90	22.20	Inf	Cys	106.6	high confidence set
+Chr_02	188	17931964	17931891	Trp	CCA	0	0	72.0	42.50	29.50	Inf	Thr	75.4	IPD:-18.90,isotype mismatch
+Chr_02	190	17698796	17698722	Sup	TTA	0	0	75.4	52.60	22.80	Inf	Ile	79.6	IPD:-79.60,unexpected anticodon
+Chr_02	191	16700430	16700347	Tyr	GTA	16700393	16700383	73.8	42.00	31.80	Inf	Tyr	106.6	high confidence set
+Chr_02	198	10690583	10690510	Arg	TCG	0	0	82.3	61.00	21.30	Inf	Arg	91.9	high confidence set
+Chr_02	200	10201518	10201435	Leu	TAA	0	0	69.3	32.80	36.50	Inf	Leu	89.6	high confidence set
+Chr_02	201	9939587	9939516	Asp	GTC	0	0	67.0	47.30	19.70	Inf	Asp	95.1	high confidence set
+Chr_02	202	8969339	8969256	Leu	CAA	0	0	76.7	54.50	22.20	Inf	Leu	123.1	high confidence set
+Chr_02	203	8955339	8955256	Leu	CAA	0	0	76.7	54.50	22.20	Inf	Leu	123.1	high confidence set
+Chr_02	204	8568685	8568614	Cys	GCA	0	0	82.1	59.90	22.20	Inf	Cys	106.6	high confidence set
+Chr_02	206	6452966	6452885	Ser	CGA	0	0	78.9	46.60	32.30	Inf	Ser	122.0	high confidence set
+Chr_02	209	2917065	2916993	Ala	CGC	0	0	68.3	44.10	24.20	Inf	Ala	99.2	high confidence set
+Chr_02	210	1748829	1748758	Pro	AGG	0	0	67.4	34.70	32.70	Inf	Pro	112.3	high confidence set
+Chr_02	212	588072	588002	Gly	GCC	0	0	56.3	37.60	18.70	Inf	Gly	83.7	high confidence set
+Chr_03	3	3191289	3191361	Lys	CTT	0	0	87.7	67.60	20.10	Inf	Lys	106.7	high confidence set
+Chr_03	4	3195534	3195606	Lys	CTT	0	0	87.7	67.60	20.10	Inf	Lys	106.7	high confidence set
+Chr_03	5	3836978	3837051	Asn	GTT	0	0	84.5	59.40	25.10	Inf	Asn	95.9	high confidence set
+Chr_03	6	3913418	3913489	iMet	CAT	0	0	58.3	28.10	30.20	Inf	iMet	118.7	high confidence set
+Chr_03	7	3921312	3921384	Phe	GAA	0	0	78.3	58.40	19.90	Inf	Phe	113.2	high confidence set
+Chr_03	8	3968000	3968071	Thr	CGT	0	0	80.5	54.30	26.20	Inf	Thr	87.3	high confidence set
+Chr_03	9	3968141	3968212	His	GTG	0	0	63.0	33.70	29.30	Inf	His	87.1	high confidence set
+Chr_03	10	4115776	4115849	Ile	AAT	0	0	84.9	58.30	26.60	Inf	Ile	109.3	high confidence set
+Chr_03	11	4253904	4253976	Val	TAC	0	0	71.5	39.00	32.50	Inf	Val	101.2	high confidence set
+Chr_03	12	4684859	4684931	Phe	GAA	0	0	78.3	58.40	19.90	Inf	Phe	113.2	high confidence set
+Chr_03	13	4957873	4957945	Phe	GAA	0	0	78.3	58.40	19.90	Inf	Phe	113.2	high confidence set
+Chr_03	14	4965362	4965434	Phe	GAA	0	0	78.3	58.40	19.90	Inf	Phe	113.2	high confidence set
+Chr_03	15	5047453	5047526	Glu	TTC	0	0	72.1	45.30	26.80	Inf	Glu	93.3	high confidence set
+Chr_03	16	5091871	5091942	iMet	CAT	0	0	58.3	28.10	30.20	Inf	iMet	118.7	high confidence set
+Chr_03	17	5702863	5702936	Asn	GTT	0	0	69.8	49.90	19.90	Inf	Asn	81.5	high confidence set
+Chr_03	20	7127132	7127203	Asp	GTC	0	0	67.0	47.30	19.70	Inf	Asp	95.1	high confidence set
+Chr_03	22	8396917	8396996	Leu	TAG	0	0	70.9	50.70	20.20	Inf	Leu	109.5	high confidence set
+Chr_03	24	10363870	10363943	Sup	TTA	0	0	81.1	56.90	24.20	Inf	Ile	89.9	IPD:-89.90,unexpected anticodon
+Chr_03	25	10467507	10467580	Asn	GTT	0	0	84.0	56.30	27.70	Inf	Ile	92.2	IPD:-15.20,isotype mismatch
+Chr_03	26	10723415	10723488	Asn	GTT	0	0	78.0	53.10	24.90	Inf	Ile	84.7	IPD:-18.60,isotype mismatch
+Chr_03	34	14512762	14512833	Asp	GTC	0	0	67.0	47.30	19.70	Inf	Asp	95.1	high confidence set
+Chr_03	35	14919022	14919093	Trp	CCA	0	0	75.8	51.20	24.60	Inf	Trp	105.6	high confidence set
+Chr_03	39	20722370	20722444	Lys	TTT	0	0	72.9	50.70	22.20	Inf	Ile	87.6	IPD:-15.30,isotype mismatch
+Chr_03	41	22485697	22485771	Sup	TTA	0	0	70.3	46.20	24.10	Inf	Ile	71.2	IPD:-71.20,unexpected anticodon
+Chr_03	42	22489018	22489092	Sup	TCA	0	0	69.0	52.10	16.90	Inf	Ile	70.7	IPD:-70.70,unexpected anticodon
+Chr_03	45	22669527	22669601	Sup	TTA	0	0	70.3	46.20	24.10	Inf	Ile	71.2	IPD:-71.20,unexpected anticodon
+Chr_03	50	25384041	25384115	Sup	TTA	0	0	65.7	47.40	18.30	Inf	Asn	73.7	IPD:-73.70,unexpected anticodon
+Chr_03	52	26997904	26997976	Arg	TCT	0	0	66.9	47.70	19.20	Inf	Arg	92.1	high confidence set
+Chr_03	53	27184672	27184746	Sup	TTA	0	0	75.5	52.60	22.90	Inf	Ile	77.9	IPD:-77.90,unexpected anticodon
+Chr_03	55	28119682	28119756	Sup	TCA	0	0	74.3	53.10	21.20	Inf	Ile	81.8	IPD:-81.80,unexpected anticodon
+Chr_03	56	28445908	28445980	Cys	GCA	0	0	81.8	59.60	22.20	Inf	Cys	104.3	high confidence set
+Chr_03	57	28446123	28446195	Cys	GCA	0	0	74.4	52.50	21.90	Inf	Cys	100.6	high confidence set
+Chr_03	58	28446350	28446422	Cys	GCA	0	0	82.9	60.70	22.20	Inf	Cys	103.6	high confidence set
+Chr_03	60	29177371	29177445	Lys	TTT	0	0	77.4	55.00	22.40	Inf	Ile	90.2	IPD:-11.80,isotype mismatch
+Chr_03	62	29357533	29357604	iMet	CAT	0	0	58.3	28.10	30.20	Inf	iMet	118.7	high confidence set
+Chr_03	64	31153282	31153361	Leu	TAG	0	0	69.5	48.50	21.00	Inf	Leu	111.5	high confidence set
+Chr_03	65	31551214	31551286	Ala	AGC	0	0	63.4	38.20	25.20	Inf	Ala	98.3	high confidence set
+Chr_03	66	31653981	31654061	Leu	AAG	0	0	71.4	51.10	20.30	Inf	Leu	108.5	high confidence set
+Chr_03	67	32235528	32235600	Ala	AGC	0	0	63.4	38.20	25.20	Inf	Ala	98.3	high confidence set
+Chr_03	68	34387512	34387584	Lys	CTT	0	0	87.7	67.60	20.10	Inf	Lys	106.7	high confidence set
+Chr_03	69	35094406	35094477	iMet	CAT	0	0	54.2	20.40	33.80	Inf	iMet	110.3	high confidence set
+Chr_03	70	35509548	35509618	Gly	GCC	0	0	66.5	44.80	21.70	Inf	Gly	94.4	high confidence set
+Chr_03	71	35792212	35792284	Ala	AGC	0	0	63.4	38.20	25.20	Inf	Ala	98.3	high confidence set
+Chr_03	72	36469780	36469861	Ser	AGA	0	0	80.3	44.00	36.30	Inf	Ser	115.3	high confidence set
+Chr_03	73	36549339	36549409	Gly	GCC	0	0	66.5	44.80	21.70	Inf	Gly	94.4	high confidence set
+Chr_03	74	36560715	36560785	Gly	GCC	0	0	66.5	44.80	21.70	Inf	Gly	94.4	high confidence set
+Chr_03	75	36895900	36895973	Ile	AAT	0	0	84.9	58.30	26.60	Inf	Ile	109.3	high confidence set
+Chr_03	76	38282935	38283006	Lys	TTT	0	0	83.0	70.00	13.00	Inf	Lys	87.3	high confidence set
+Chr_03	77	38515722	38515795	Glu	TTC	0	0	72.1	45.30	26.80	Inf	Glu	93.3	high confidence set
+Chr_03	78	38824281	38824354	Val	TAC	0	0	75.0	41.90	33.10	Inf	Val	97.3	high confidence set
+Chr_03	79	38846620	38846692	Val	TAC	0	0	62.6	36.10	26.50	Inf	Val	92.7	high confidence set
+Chr_03	80	38883227	38883299	Val	TAC	0	0	74.2	42.60	31.60	Inf	Val	95.4	high confidence set
+Chr_03	81	39548344	39548417	Asn	GTT	0	0	81.1	58.40	22.70	Inf	Asn	93.7	high confidence set
+Chr_03	82	39990153	39990225	Ala	AGC	0	0	63.4	38.20	25.20	Inf	Ala	98.3	high confidence set
+Chr_03	83	40895941	40896013	Arg	ACG	0	0	72.5	49.90	22.60	Inf	Arg	93.8	high confidence set
+Chr_03	84	40955162	40955242	Leu	CAG	0	0	69.5	46.80	22.70	Inf	Leu	109.7	high confidence set
+Chr_03	87	42324377	42324448	Thr	TGT	0	0	79.1	48.90	30.20	Inf	Thr	92.7	high confidence set
+Chr_03	88	42241511	42241439	Arg	ACG	0	0	72.5	49.90	22.60	Inf	Arg	93.8	high confidence set
+Chr_03	89	39607148	39607076	Lys	CTT	0	0	87.7	67.60	20.10	Inf	Lys	106.7	high confidence set
+Chr_03	90	39377666	39377595	His	GTG	0	0	63.0	33.70	29.30	Inf	His	87.1	high confidence set
+Chr_03	91	39247381	39247308	Val	CAC	0	0	79.1	48.00	31.10	Inf	Val	101.8	high confidence set
+Chr_03	92	38555737	38555664	Asn	GTT	0	0	84.5	59.40	25.10	Inf	Asn	95.9	high confidence set
+Chr_03	93	38518186	38518115	Asp	GTC	0	0	62.5	42.10	20.40	Inf	Asp	88.4	high confidence set
+Chr_03	95	38032241	38032169	Ala	TGC	0	0	69.1	43.30	25.80	Inf	Ala	101.9	high confidence set
+Chr_03	96	37630413	37630328	Tyr	GTA	37630376	37630364	73.7	41.90	31.80	Inf	Tyr	106.6	high confidence set
+Chr_03	97	36483233	36483153	Leu	CAG	0	0	69.5	46.80	22.70	Inf	Leu	109.7	high confidence set
+Chr_03	98	36348782	36348711	iMet	CAT	0	0	58.3	28.10	30.20	Inf	iMet	118.7	high confidence set
+Chr_03	99	36107763	36107680	Leu	CAA	0	0	76.7	54.50	22.20	Inf	Leu	123.1	high confidence set
+Chr_03	100	35818104	35818033	Asp	GTC	0	0	69.8	46.80	23.00	Inf	Asp	94.5	high confidence set
+Chr_03	102	35276318	35276245	Sup	TTA	0	0	81.1	56.90	24.20	Inf	Ile	89.9	IPD:-89.90,unexpected anticodon
+Chr_03	105	32276898	32276818	Leu	AAG	0	0	73.2	54.50	18.70	Inf	Leu	106.7	high confidence set
+Chr_03	106	32153851	32153779	Arg	CCT	0	0	74.8	55.90	18.90	Inf	Arg	84.6	high confidence set
+Chr_03	107	31862978	31862905	Thr	AGT	0	0	84.4	61.10	23.30	Inf	Thr	93.5	high confidence set
+Chr_03	108	31811060	31810987	Thr	AGT	0	0	84.4	61.10	23.30	Inf	Thr	93.5	high confidence set
+Chr_03	109	31808255	31808182	Thr	AGT	0	0	84.4	61.10	23.30	Inf	Thr	93.5	high confidence set
+Chr_03	110	31265949	31265878	Trp	CCA	0	0	75.8	51.20	24.60	Inf	Trp	105.6	high confidence set
+Chr_03	111	30848120	30848039	Ser	TGA	0	0	79.2	43.90	35.30	Inf	Ser	118.5	high confidence set
+Chr_03	114	28980139	28980068	Trp	CCA	0	0	75.8	51.20	24.60	Inf	Trp	105.6	high confidence set
+Chr_03	115	27907044	27906958	Met	CAT	27907006	27906994	64.2	40.70	23.50	Inf	Met	104.0	high confidence set
+Chr_03	116	27201497	27201425	Arg	TCT	0	0	66.9	47.70	19.20	Inf	Arg	92.1	high confidence set
+Chr_03	117	27188208	27188137	Arg	TCT	0	0	51.9	36.30	15.60	Inf	Arg	75.2	high confidence set
+Chr_03	118	26705888	26705814	Sup	TCA	0	0	76.9	55.60	21.30	Inf	Ile	83.9	IPD:-83.90,unexpected anticodon
+Chr_03	120	24681509	24681435	Sup	TCA	0	0	79.2	54.00	25.20	Inf	Ile	86.8	IPD:-86.80,unexpected anticodon
+Chr_03	121	24615640	24615566	Sup	TTA	0	0	78.1	55.60	22.50	Inf	Ile	84.3	IPD:-84.30,unexpected anticodon
+Chr_03	122	24267539	24267465	Lys	TTT	0	0	73.9	53.20	20.70	Inf	Ile	88.6	IPD:-13.80,isotype mismatch
+Chr_03	127	20081245	20081173	Lys	CTT	0	0	87.7	67.60	20.10	Inf	Lys	106.7	high confidence set
+Chr_03	130	18244308	18244235	Asn	GTT	0	0	82.4	54.70	27.70	Inf	Ile	90.8	IPD:-18.50,isotype mismatch
+Chr_03	133	17120832	17120758	Sup	TCA	0	0	73.4	53.70	19.70	Inf	Ile	76.8	IPD:-76.80,unexpected anticodon
+Chr_03	134	16119954	16119880	Sup	TTA	0	0	69.6	51.50	18.10	Inf	Ile	76.7	IPD:-76.70,unexpected anticodon
+Chr_03	135	15605568	15605497	Asp	GTC	0	0	69.8	46.80	23.00	Inf	Asp	94.5	high confidence set
+Chr_03	140	10601900	10601828	Arg	ACG	0	0	72.6	49.80	22.80	Inf	Arg	89.8	high confidence set
+Chr_03	142	10237144	10237073	Thr	TGT	0	0	79.1	48.90	30.20	Inf	Thr	92.7	high confidence set
+Chr_03	144	8474412	8474338	Undet	NNN	0	0	64.6	52.30	12.30	Inf	Ile	70.5	undetermined isotype
+Chr_03	145	8470862	8470788	Sup	TCA	0	0	74.4	50.40	24.00	Inf	Ile	76.9	IPD:-76.90,unexpected anticodon
+Chr_03	149	4230820	4230747	Ile	AAT	0	0	84.9	58.30	26.60	Inf	Ile	109.3	high confidence set
+Chr_03	150	4226726	4226653	Ile	AAT	0	0	84.9	58.30	26.60	Inf	Ile	109.3	high confidence set
+Chr_03	151	4218149	4218076	Ile	AAT	0	0	84.9	58.30	26.60	Inf	Ile	109.3	high confidence set
+Chr_03	154	3750115	3750043	Arg	TCT	0	0	64.6	45.40	19.20	Inf	Arg	89.5	high confidence set
+Chr_03	156	2190219	2190146	Asn	GTT	0	0	81.1	57.90	23.20	Inf	Asn	85.5	high confidence set
+Chr_04	3	4509515	4509585	Gly	GCC	0	0	66.5	44.80	21.70	Inf	Gly	94.4	high confidence set
+Chr_04	4	4511173	4511243	Gly	GCC	0	0	66.5	44.80	21.70	Inf	Gly	94.4	high confidence set
+Chr_04	5	6858608	6858689	Ser	AGA	0	0	72.6	37.40	35.20	Inf	Ser	107.8	high confidence set
+Chr_04	7	7593117	7593189	Glu	CTC	0	0	78.9	53.10	25.80	Inf	Glu	99.2	high confidence set
+Chr_04	8	8909971	8910042	His	GTG	0	0	63.0	33.70	29.30	Inf	His	87.1	high confidence set
+Chr_04	9	9165038	9165118	Leu	AAG	0	0	75.7	55.40	20.30	Inf	Leu	112.7	high confidence set
+Chr_04	27	19849802	19849875	Ile	AAT	0	0	75.2	52.00	23.20	Inf	Ile	100.1	high confidence set
+Chr_04	30	20745721	20745792	Gln	CTG	0	0	72.2	48.10	24.10	Inf	Gln	101.2	high confidence set
+Chr_04	36	23944793	23944867	Sup	TTA	0	0	73.6	55.30	18.30	Inf	Ile	81.4	IPD:-81.40,unexpected anticodon
+Chr_04	37	23950282	23950356	Undet	NNN	0	0	64.6	52.30	12.30	Inf	Ile	70.5	undetermined isotype
+Chr_04	38	23953676	23953750	Sup	TCA	0	0	74.4	50.40	24.00	Inf	Ile	76.9	IPD:-76.90,unexpected anticodon
+Chr_04	42	26459508	26459582	Sup	TCA	0	0	73.4	53.70	19.70	Inf	Ile	76.8	IPD:-76.80,unexpected anticodon
+Chr_04	43	27431357	27431428	Asp	GTC	0	0	69.8	46.80	23.00	Inf	Asp	94.5	high confidence set
+Chr_04	48	31568675	31568748	Glu	TTC	0	0	72.1	45.30	26.80	Inf	Glu	93.3	high confidence set
+Chr_04	54	36454667	36454746	Leu	TAG	0	0	69.5	48.50	21.00	Inf	Leu	111.5	high confidence set
+Chr_04	55	36674368	36674441	Sup	TTA	0	0	68.9	52.10	16.80	Inf	Ile	72.5	IPD:-72.50,unexpected anticodon
+Chr_04	58	40143827	40143899	Ala	AGC	0	0	63.4	38.20	25.20	Inf	Ala	98.3	high confidence set
+Chr_04	60	42612611	42612691	Leu	CAG	0	0	69.5	46.80	22.70	Inf	Leu	109.7	high confidence set
+Chr_04	62	45569118	45569189	Thr	CGT	0	0	80.2	53.70	26.50	Inf	Thr	86.8	high confidence set
+Chr_04	63	45731401	45731473	Ala	TGC	0	0	69.1	43.30	25.80	Inf	Ala	101.9	high confidence set
+Chr_04	64	45264448	45264374	Lys	TTT	0	0	69.6	47.20	22.40	Inf	Ile	85.0	IPD:-15.60,isotype mismatch
+Chr_04	67	42397313	42397242	Thr	GGT	0	0	58.8	26.80	32.00	Inf	Thr	72.2	unexpected anticodon
+Chr_04	71	40951313	40951241	Phe	GAA	0	0	78.3	58.40	19.90	Inf	Phe	113.2	high confidence set
+Chr_04	72	40332808	40332723	Met	CAT	40332770	40332759	64.2	40.80	23.40	Inf	Met	104.0	high confidence set
+Chr_04	82	32069592	32069521	Gln	CTG	0	0	72.2	48.10	24.10	Inf	Gln	101.2	high confidence set
+Chr_04	83	32005226	32005153	Sup	TTA	0	0	81.1	56.90	24.20	Inf	Ile	89.9	IPD:-89.90,unexpected anticodon
+Chr_04	85	30368428	30368357	Gln	CTG	0	0	55.7	43.90	11.80	Inf	Gln	84.5	high confidence set
+Chr_04	96	24898051	24897977	Lys	TTT	0	0	77.4	55.00	22.40	Inf	Ile	85.8	IPD:-7.40,isotype mismatch
+Chr_04	105	16122526	16122455	Gly	TCC	0	0	71.0	46.70	24.30	Inf	Gly	82.3	high confidence set
+Chr_04	106	16098227	16098156	Gly	TCC	0	0	73.9	46.20	27.70	Inf	Gly	85.6	high confidence set
+Chr_04	109	11166428	11166357	Lys	TTT	0	0	80.4	65.10	15.30	Inf	Lys	85.9	high confidence set
+Chr_04	110	11144226	11144155	Lys	TTT	0	0	80.4	65.10	15.30	Inf	Lys	85.9	high confidence set
+Chr_04	118	6358555	6358483	Glu	CTC	0	0	78.9	53.10	25.80	Inf	Glu	99.2	high confidence set
+Chr_04	119	5394157	5394084	Ile	TAT	0	0	85.9	70.60	15.30	Inf	Ile	103.9	high confidence set
+Chr_04	122	1884551	1884468	Leu	TAA	0	0	63.1	26.70	36.40	Inf	Leu	80.6	high confidence set
+Chr_05	2	709436	709527	Tyr	GTA	709473	709491	74.2	42.70	31.50	Inf	Tyr	111.8	high confidence set
+Chr_05	3	1239016	1239087	Gln	TTG	0	0	71.3	53.50	17.80	Inf	Gln	101.1	high confidence set
+Chr_05	4	1539400	1539471	Gly	TCC	0	0	73.9	46.20	27.70	Inf	Gly	85.6	high confidence set
+Chr_05	6	2474494	2474565	Cys	GCA	0	0	82.1	59.90	22.20	Inf	Cys	106.6	high confidence set
+Chr_05	7	2608571	2608642	Asp	GTC	0	0	67.0	47.30	19.70	Inf	Asp	95.1	high confidence set
+Chr_05	8	2652424	2652495	His	GTG	0	0	63.0	33.70	29.30	Inf	His	91.2	high confidence set
+Chr_05	9	2815899	2815971	Ala	TGC	0	0	69.1	43.30	25.80	Inf	Ala	101.9	high confidence set
+Chr_05	12	3050227	3050298	His	GTG	0	0	63.0	33.70	29.30	Inf	His	87.1	high confidence set
+Chr_05	13	3176145	3176218	Val	AAC	0	0	72.2	47.80	24.40	Inf	Val	98.2	high confidence set
+Chr_05	14	3610149	3610230	Ser	TGA	0	0	80.7	46.00	34.70	Inf	Ser	111.5	high confidence set
+Chr_05	15	4003575	4003646	Pro	TGG	0	0	66.3	31.40	34.90	Inf	Pro	105.9	high confidence set
+Chr_05	16	4477934	4478007	Asn	GTT	0	0	81.1	58.40	22.70	Inf	Asn	93.7	high confidence set
+Chr_05	17	4818565	4818638	Glu	TTC	0	0	72.1	45.30	26.80	Inf	Glu	93.3	high confidence set
+Chr_05	18	5283936	5284007	Pro	TGG	0	0	68.9	36.50	32.40	Inf	Pro	109.4	high confidence set
+Chr_05	19	5395591	5395662	iMet	CAT	0	0	58.3	28.10	30.20	Inf	iMet	118.7	high confidence set
+Chr_05	20	5397295	5397366	iMet	CAT	0	0	58.3	28.10	30.20	Inf	iMet	118.7	high confidence set
+Chr_05	21	5601381	5601452	Trp	CCA	0	0	75.8	51.20	24.60	Inf	Trp	105.6	high confidence set
+Chr_05	22	5741917	5741988	Asp	GTC	0	0	69.8	46.80	23.00	Inf	Asp	94.5	high confidence set
+Chr_05	25	6370640	6370711	Trp	CCA	0	0	75.8	51.20	24.60	Inf	Trp	105.6	high confidence set
+Chr_05	28	6865584	6865655	Thr	TGT	0	0	82.7	57.00	25.70	Inf	Thr	93.2	high confidence set
+Chr_05	29	7006507	7006578	Pro	TGG	0	0	68.9	36.50	32.40	Inf	Pro	109.4	high confidence set
+Chr_05	30	8639592	8639664	Arg	CCT	0	0	69.1	50.30	18.80	Inf	Arg	81.2	high confidence set
+Chr_05	31	8815260	8815334	Sup	TCA	0	0	79.2	54.00	25.20	Inf	Ile	86.8	IPD:-86.80,unexpected anticodon
+Chr_05	32	9459337	9459409	Phe	GAA	0	0	78.3	58.40	19.90	Inf	Phe	113.2	high confidence set
+Chr_05	33	9474250	9474334	Met	CAT	9474288	9474298	64.2	40.80	23.40	Inf	Met	104.0	high confidence set
+Chr_05	34	10474351	10474421	Gly	GCC	0	0	65.5	43.70	21.80	Inf	Gly	91.0	high confidence set
+Chr_05	36	10927215	10927289	Undet	NNN	0	0	64.6	52.30	12.30	Inf	Ile	70.5	undetermined isotype
+Chr_05	37	10930768	10930842	Sup	TCA	0	0	74.4	50.40	24.00	Inf	Ile	76.9	IPD:-76.90,unexpected anticodon
+Chr_05	38	11114876	11114947	His	GTG	0	0	63.0	33.70	29.30	Inf	His	91.2	high confidence set
+Chr_05	39	11436194	11436265	Asp	GTC	0	0	69.8	46.80	23.00	Inf	Asp	94.5	high confidence set
+Chr_05	40	11562168	11562241	Glu	TTC	0	0	72.1	45.30	26.80	Inf	Glu	93.3	high confidence set
+Chr_05	41	12190237	12190310	Glu	TTC	0	0	70.5	43.00	27.50	Inf	Glu	89.1	high confidence set
+Chr_05	47	27702887	27702968	Ser	GCT	0	0	80.5	45.20	35.30	Inf	Ser	109.5	high confidence set
+Chr_05	52	30861621	30861695	Sup	TTA	0	0	74.7	53.80	20.90	Inf	Ile	73.7	IPD:-73.70,unexpected anticodon
+Chr_05	53	31127912	31127986	Sup	TCA	0	0	79.2	54.00	25.20	Inf	Ile	86.8	IPD:-86.80,unexpected anticodon
+Chr_05	56	33293314	33293395	Ser	AGA	0	0	79.4	43.10	36.30	Inf	Ser	115.0	high confidence set
+Chr_05	59	34288697	34288769	Glu	CTC	0	0	78.9	53.10	25.80	Inf	Glu	99.2	high confidence set
+Chr_05	60	34417198	34417269	Gln	TTG	0	0	61.7	48.70	13.00	Inf	Gln	90.2	high confidence set
+Chr_05	63	36608048	36608130	Leu	TAA	0	0	68.4	29.10	39.30	Inf	Leu	90.1	high confidence set
+Chr_05	64	36613131	36613203	Lys	CTT	0	0	87.7	67.60	20.10	Inf	Lys	106.7	high confidence set
+Chr_05	65	37362451	37362524	Val	AAC	0	0	72.2	47.80	24.40	Inf	Val	98.2	high confidence set
+Chr_05	66	37567055	37567128	Val	AAC	0	0	72.2	47.80	24.40	Inf	Val	98.2	high confidence set
+Chr_05	67	39120213	39120301	Tyr	GTA	39120250	39120265	74.3	42.80	31.50	Inf	Tyr	111.8	high confidence set
+Chr_05	69	40480505	40480586	Ser	TGA	0	0	80.7	46.00	34.70	Inf	Ser	111.5	high confidence set
+Chr_05	70	41013818	41013890	Arg	TCT	0	0	68.8	51.20	17.60	Inf	Arg	94.8	high confidence set
+Chr_05	73	41909916	41909987	Asp	GTC	0	0	67.0	47.30	19.70	Inf	Asp	96.4	high confidence set
+Chr_05	74	42140371	42140441	Gly	GCC	0	0	66.5	44.80	21.70	Inf	Gly	94.4	high confidence set
+Chr_05	75	42651645	42651716	Pro	TGG	0	0	68.9	36.50	32.40	Inf	Pro	109.4	high confidence set
+Chr_05	81	40969898	40969825	Arg	TCG	0	0	82.3	61.00	21.30	Inf	Arg	91.9	high confidence set
+Chr_05	82	40483588	40483517	Asp	GTC	0	0	69.8	46.80	23.00	Inf	Asp	95.8	high confidence set
+Chr_05	83	40480745	40480674	Asp	GTC	0	0	69.8	46.80	23.00	Inf	Asp	94.5	high confidence set
+Chr_05	85	37213382	37213310	Ala	TGC	0	0	69.1	43.30	25.80	Inf	Ala	101.9	high confidence set
+Chr_05	86	37058401	37058328	Ile	AAT	0	0	72.4	52.60	19.80	Inf	Ile	97.3	high confidence set
+Chr_05	87	37058320	37058247	Val	CAC	0	0	82.4	54.40	28.00	Inf	Val	103.7	high confidence set
+Chr_05	88	37025840	37025769	Cys	GCA	0	0	82.1	59.90	22.20	Inf	Cys	106.6	high confidence set
+Chr_05	90	35784826	35784746	Leu	AAG	0	0	74.0	52.20	21.80	Inf	Leu	110.4	high confidence set
+Chr_05	100	28334837	28334763	Sup	TTA	0	0	75.5	52.60	22.90	Inf	Ile	77.9	IPD:-77.90,unexpected anticodon
+Chr_05	104	24777710	24777640	Gly	GCC	0	0	53.1	35.80	17.30	Inf	Gly	79.7	high confidence set
+Chr_05	105	24173110	24173039	Gln	TTG	0	0	73.5	53.70	19.80	Inf	Gln	104.8	high confidence set
+Chr_05	106	23810100	23810029	Asp	GTC	0	0	69.8	46.80	23.00	Inf	Asp	94.5	high confidence set
+Chr_05	108	21568443	21568371	Arg	TCT	0	0	68.8	51.20	17.60	Inf	Arg	94.8	high confidence set
+Chr_05	110	19702661	19702589	Ala	TGC	0	0	69.1	43.30	25.80	Inf	Ala	101.9	high confidence set
+Chr_05	112	18883620	18883546	Glu	TTC	0	0	67.3	43.20	24.10	Inf	Glu	84.2	high confidence set
+Chr_05	113	18872610	18872539	Gln	TTG	0	0	76.6	57.00	19.60	Inf	Gln	107.0	high confidence set
+Chr_05	116	17637704	17637630	Sup	TCA	0	0	66.3	52.50	13.80	Inf	Ile	71.9	IPD:-71.90,unexpected anticodon
+Chr_05	118	17371168	17371079	Met	CAT	17371130	17371115	64.1	40.60	23.50	Inf	Met	104.0	high confidence set
+Chr_05	120	16669944	16669871	Sup	TTA	0	0	70.9	60.80	10.10	Inf	Ile	78.1	IPD:-78.10,unexpected anticodon
+Chr_05	123	15808555	15808482	Ile	AAT	0	0	74.7	56.80	17.90	Inf	Ile	98.1	high confidence set
+Chr_05	126	13107757	13107685	Leu	TAA	0	0	64.6	32.20	32.40	Inf	Pro	87.4	IPD:-74.60,isotype mismatch
+Chr_05	127	12657236	12657165	Lys	TTT	0	0	80.4	65.10	15.30	Inf	Lys	85.9	high confidence set
+Chr_05	128	12584412	12584341	Trp	CCA	0	0	75.8	51.20	24.60	Inf	Trp	105.6	high confidence set
+Chr_05	129	12318666	12318593	Ile	AAT	0	0	84.9	58.30	26.60	Inf	Ile	109.3	high confidence set
+Chr_05	130	12194783	12194710	Asn	GTT	0	0	81.1	58.40	22.70	Inf	Asn	93.7	high confidence set
+Chr_05	131	12180689	12180618	Thr	TGT	0	0	79.1	48.90	30.20	Inf	Thr	92.7	high confidence set
+Chr_05	132	11900703	11900632	Asp	GTC	0	0	69.8	46.80	23.00	Inf	Asp	95.8	high confidence set
+Chr_05	133	11875627	11875555	Ala	TGC	0	0	60.7	41.30	19.40	Inf	Ala	94.8	high confidence set
+Chr_05	134	11719390	11719319	Pro	TGG	0	0	66.3	31.40	34.90	Inf	Pro	105.9	high confidence set
+Chr_05	135	11715063	11714990	Thr	AGT	0	0	73.6	45.20	28.40	Inf	Thr	88.6	high confidence set
+Chr_05	136	11572934	11572863	Asp	GTC	0	0	62.4	38.60	23.80	Inf	Asp	85.9	high confidence set
+Chr_05	138	11387872	11387801	Gln	CTG	0	0	74.6	50.10	24.50	Inf	Gln	102.4	high confidence set
+Chr_05	139	11190636	11190563	Asn	GTT	0	0	84.5	59.40	25.10	Inf	Asn	95.9	high confidence set
+Chr_05	141	11083843	11083770	Sup	TTA	0	0	81.1	56.90	24.20	Inf	Ile	89.9	IPD:-89.90,unexpected anticodon
+Chr_05	142	11027175	11027102	Sup	TTA	0	0	72.5	49.50	23.00	Inf	Ile	81.7	IPD:-81.70,unexpected anticodon
+Chr_05	144	10884847	10884764	Leu	CAA	0	0	79.5	54.50	25.00	Inf	Leu	126.8	high confidence set
+Chr_05	146	10275098	10275026	Glu	CTC	0	0	78.9	53.10	25.80	Inf	Glu	99.2	high confidence set
+Chr_05	147	9836043	9835970	Ile	AAT	0	0	84.9	58.30	26.60	Inf	Ile	109.3	high confidence set
+Chr_05	148	9661489	9661417	Ala	CGC	0	0	68.3	44.10	24.20	Inf	Ala	99.2	high confidence set
+Chr_05	149	9365335	9365265	Gly	CCC	0	0	65.4	28.10	37.30	Inf	Gly	85.4	high confidence set
+Chr_05	150	9363324	9363254	Gly	CCC	0	0	65.4	28.10	37.30	Inf	Gly	85.4	high confidence set
+Chr_05	151	9363180	9363108	Ala	AGC	0	0	63.4	38.20	25.20	Inf	Ala	98.3	high confidence set
+Chr_05	153	8628817	8628733	Tyr	GTA	8628780	8628769	73.8	41.90	31.90	Inf	Tyr	106.6	high confidence set
+Chr_05	154	8489942	8489870	Arg	TCT	0	0	68.8	51.20	17.60	Inf	Arg	94.8	high confidence set
+Chr_05	157	7290810	7290738	Glu	CTC	0	0	78.9	53.10	25.80	Inf	Glu	99.2	high confidence set
+Chr_05	158	6792834	6792762	Glu	CTC	0	0	78.9	53.10	25.80	Inf	Glu	99.2	high confidence set
+Chr_05	159	6735718	6735646	Glu	CTC	0	0	78.9	53.10	25.80	Inf	Glu	99.2	high confidence set
+Chr_05	160	4645639	4645566	Glu	TTC	0	0	72.1	45.30	26.80	Inf	Glu	93.3	high confidence set
+Chr_05	161	4636385	4636314	Gln	TTG	0	0	71.3	53.50	17.80	Inf	Gln	101.1	high confidence set
+Chr_05	162	4465803	4465733	Gly	CCC	0	0	65.4	28.10	37.30	Inf	Gly	85.4	high confidence set
+Chr_05	163	4115329	4115257	Val	TAC	0	0	78.2	43.80	34.40	Inf	Val	106.2	high confidence set
+Chr_05	164	4092228	4092147	Ser	GCT	0	0	80.5	45.20	35.30	Inf	Ser	109.5	high confidence set
+Chr_05	166	3839817	3839744	Asn	GTT	0	0	81.1	58.40	22.70	Inf	Asn	93.7	high confidence set
+Chr_05	169	3177626	3177545	Ser	AGA	0	0	80.3	44.00	36.30	Inf	Ser	115.3	high confidence set
+Chr_05	170	2813985	2813904	Ser	GCT	0	0	80.5	45.20	35.30	Inf	Ser	109.5	high confidence set
+Chr_05	171	2712972	2712899	Ile	AAT	0	0	85.2	59.00	26.20	Inf	Ile	105.3	high confidence set
+Chr_05	172	2193050	2192979	Asp	GTC	0	0	67.0	47.30	19.70	Inf	Asp	95.1	high confidence set
+Chr_05	173	1842545	1842464	Ser	GCT	0	0	80.5	45.20	35.30	Inf	Ser	109.5	high confidence set
+Chr_05	174	1604085	1604014	Asp	GTC	0	0	69.8	46.80	23.00	Inf	Asp	94.5	high confidence set
+Chr_05	175	1169908	1169835	Asn	GTT	0	0	84.5	59.40	25.10	Inf	Asn	95.9	high confidence set
+Chr_06	1	400920	401001	Ser	GCT	0	0	80.5	45.20	35.30	Inf	Ser	109.5	high confidence set
+Chr_06	2	509148	509221	Ile	TAT	0	0	86.5	71.20	15.30	Inf	Ile	104.1	high confidence set
+Chr_06	3	739383	739454	Pro	TGG	0	0	68.9	36.50	32.40	Inf	Pro	109.4	high confidence set
+Chr_06	4	907214	907285	Gly	TCC	0	0	73.9	46.20	27.70	Inf	Gly	85.6	high confidence set
+Chr_06	5	1246536	1246607	Gln	TTG	0	0	76.4	56.50	19.90	Inf	Gln	109.1	high confidence set
+Chr_06	6	2281709	2281788	Leu	TAG	0	0	69.5	48.50	21.00	Inf	Leu	111.5	high confidence set
+Chr_06	7	2465730	2465800	Gly	GCC	0	0	66.5	44.80	21.70	Inf	Gly	94.4	high confidence set
+Chr_06	8	2501685	2501756	Gln	TTG	0	0	71.5	49.70	21.80	Inf	Gln	103.2	high confidence set
+Chr_06	9	2761450	2761521	Trp	CCA	0	0	75.8	51.20	24.60	Inf	Trp	105.6	high confidence set
+Chr_06	11	2811838	2811909	Trp	CCA	0	0	75.8	51.20	24.60	Inf	Trp	105.6	high confidence set
+Chr_06	12	2879611	2879684	Val	CAC	0	0	77.2	56.00	21.20	Inf	Val	100.0	high confidence set
+Chr_06	13	2995457	2995527	Gly	GCC	0	0	66.5	44.80	21.70	Inf	Gly	94.4	high confidence set
+Chr_06	14	3224980	3225051	Gly	TCC	0	0	73.9	46.20	27.70	Inf	Gly	85.6	high confidence set
+Chr_06	15	3239493	3239582	Tyr	GTA	3239530	3239546	73.6	41.70	31.90	Inf	Tyr	106.6	high confidence set
+Chr_06	17	3611338	3611411	Glu	TTC	0	0	72.1	45.30	26.80	Inf	Glu	93.3	high confidence set
+Chr_06	18	4677817	4677889	Arg	ACG	0	0	72.5	49.90	22.60	Inf	Arg	90.9	high confidence set
+Chr_06	19	5253121	5253194	Val	AAC	0	0	72.2	47.80	24.40	Inf	Val	98.2	high confidence set
+Chr_06	20	5593202	5593275	Ile	AAT	0	0	84.9	58.30	26.60	Inf	Ile	109.3	high confidence set
+Chr_06	21	5958396	5958467	Asp	GTC	0	0	67.0	47.30	19.70	Inf	Asp	96.4	high confidence set
+Chr_06	22	6221988	6222060	Ala	TGC	0	0	65.6	39.80	25.80	Inf	Ala	97.7	high confidence set
+Chr_06	23	6559930	6560001	Gln	CTG	0	0	72.2	48.10	24.10	Inf	Gln	101.2	high confidence set
+Chr_06	26	7231993	7232075	Ser	AGA	0	0	63.9	38.90	25.00	Inf	Ser	90.4	high confidence set
+Chr_06	30	9159389	9159474	Met	CAT	9159427	9159438	64.2	40.80	23.40	Inf	Met	104.0	high confidence set
+Chr_06	31	9169777	9169862	Met	CAT	9169815	9169826	64.2	40.80	23.40	Inf	Met	104.0	high confidence set
+Chr_06	32	9567505	9567576	Lys	TTT	0	0	80.4	65.10	15.30	Inf	Lys	85.9	high confidence set
+Chr_06	33	9596992	9597073	Ser	AGA	0	0	69.8	36.60	33.20	Inf	Ser	102.2	high confidence set
+Chr_06	34	9637498	9637579	Ser	AGA	0	0	80.3	44.00	36.30	Inf	Ser	115.3	high confidence set
+Chr_06	35	10104485	10104558	Asn	GTT	0	0	81.1	58.40	22.70	Inf	Asn	93.7	high confidence set
+Chr_06	36	10619640	10619711	Gln	CTG	0	0	60.6	50.50	10.10	Inf	Gln	93.2	high confidence set
+Chr_06	37	10620589	10620659	Gln	TTG	0	0	60.8	36.80	24.00	Inf	Gln	89.1	high confidence set
+Chr_06	38	10621728	10621799	Gln	TTG	0	0	72.9	49.50	23.40	Inf	Gln	108.9	high confidence set
+Chr_06	39	10622412	10622483	Gln	TTG	0	0	59.7	43.10	16.60	Inf	Gln	91.5	high confidence set
+Chr_06	41	10625098	10625169	Gln	TTG	0	0	72.9	45.40	27.50	Inf	Gln	107.0	high confidence set
+Chr_06	42	12053180	12053252	Glu	CTC	0	0	78.9	53.10	25.80	Inf	Glu	99.2	high confidence set
+Chr_06	44	13217658	13217730	Phe	GAA	0	0	78.3	58.40	19.90	Inf	Phe	113.2	high confidence set
+Chr_06	49	17976500	17976571	Pro	TGG	0	0	69.6	37.70	31.90	Inf	Pro	111.0	high confidence set
+Chr_06	50	18887158	18887229	Trp	CCA	0	0	66.8	51.60	15.20	Inf	Trp	94.1	high confidence set
+Chr_06	55	22690096	22690168	Glu	CTC	0	0	78.9	53.10	25.80	Inf	Glu	99.2	high confidence set
+Chr_06	56	23019431	23019502	Pro	CGG	0	0	65.1	40.90	24.20	Inf	Pro	107.0	high confidence set
+Chr_06	61	24137320	24137394	Pro	TGG	0	0	62.8	32.80	30.00	Inf	Trp	73.3	IPD:-42.40,isotype mismatch
+Chr_06	64	25755079	25755150	Pro	TGG	0	0	68.9	36.50	32.40	Inf	Pro	109.4	high confidence set
+Chr_06	67	26487186	26487259	Asn	GTT	0	0	81.1	58.40	22.70	Inf	Asn	93.7	high confidence set
+Chr_06	71	27144635	27144706	Asp	GTC	0	0	69.8	46.80	23.00	Inf	Asp	94.5	high confidence set
+Chr_06	74	29183408	29183482	Lys	TTT	0	0	72.9	50.70	22.20	Inf	Ile	87.6	IPD:-15.30,isotype mismatch
+Chr_06	76	30354549	30354622	Gln	TTG	0	0	81.1	56.90	24.20	Inf	Ile	90.0	IPD:-49.20,isotype mismatch
+Chr_06	78	28959984	28959912	Lys	CTT	0	0	87.7	67.60	20.10	Inf	Lys	106.7	high confidence set
+Chr_06	79	28148330	28148250	Leu	AAG	0	0	74.0	52.20	21.80	Inf	Leu	110.4	high confidence set
+Chr_06	80	27785639	27785568	Thr	TGT	0	0	82.7	57.00	25.70	Inf	Thr	93.2	high confidence set
+Chr_06	82	27118505	27118431	Leu	CAA	0	0	71.8	53.40	18.40	Inf	Ile	77.2	IPD:-79.30,isotype mismatch
+Chr_06	86	26454169	26454095	Ile	TAT	0	0	73.3	50.90	22.40	Inf	Ile	89.1	high confidence set
+Chr_06	90	24603275	24603202	Ile	AAT	0	0	83.3	56.60	26.70	Inf	Ile	104.8	high confidence set
+Chr_06	93	23923851	23923777	Pro	TGG	0	0	62.8	32.80	30.00	Inf	Trp	73.3	IPD:-42.40,isotype mismatch
+Chr_06	95	23894715	23894642	Trp	CCA	0	0	70.1	43.00	27.10	Inf	Thr	71.6	IPD:-17.70,isotype mismatch
+Chr_06	98	22597531	22597457	Asn	ATT	0	0	66.5	44.10	22.40	Inf	Lys	73.0	IPD:-15.60,isotype mismatch
+Chr_06	103	17467095	17467024	Thr	TGT	0	0	79.3	49.30	30.00	Inf	Thr	92.3	high confidence set
+Chr_06	104	17265720	17265647	Ile	AAT	0	0	84.9	58.30	26.60	Inf	Ile	109.3	high confidence set
+Chr_06	106	15953341	15953268	Gln	TTG	0	0	81.1	56.90	24.20	Inf	Ile	90.0	IPD:-49.20,isotype mismatch
+Chr_06	112	12618721	12618649	Ile	AAT	0	0	63.7	45.80	17.90	Inf	Ile	70.0	high confidence set
+Chr_06	114	11744731	11744659	Glu	CTC	0	0	75.4	53.70	21.70	Inf	Glu	92.2	high confidence set
+Chr_06	115	11737817	11737745	Glu	CTC	0	0	78.9	53.10	25.80	Inf	Glu	99.2	high confidence set
+Chr_06	116	11636172	11636098	Lys	TTT	0	0	72.9	50.70	22.20	Inf	Ile	87.6	IPD:-15.30,isotype mismatch
+Chr_06	117	10749355	10749284	Thr	CGT	0	0	78.3	51.30	27.00	Inf	Thr	86.0	high confidence set
+Chr_06	118	9526798	9526728	Gly	GCC	0	0	66.0	44.20	21.80	Inf	Gly	95.0	high confidence set
+Chr_06	119	8591000	8590928	Arg	TCT	0	0	68.8	51.20	17.60	Inf	Arg	94.8	high confidence set
+Chr_06	120	8420953	8420882	Lys	TTT	0	0	80.4	65.10	15.30	Inf	Lys	85.9	high confidence set
+Chr_06	121	8037034	8036950	Tyr	GTA	8036997	8036986	73.8	41.90	31.90	Inf	Tyr	106.6	high confidence set
+Chr_06	123	6573750	6573679	Cys	GCA	0	0	82.1	59.90	22.20	Inf	Cys	106.6	high confidence set
+Chr_06	124	6420349	6420276	Glu	TTC	0	0	70.5	43.00	27.50	Inf	Glu	89.1	high confidence set
+Chr_06	126	5800336	5800256	Leu	CAG	0	0	69.5	46.80	22.70	Inf	Leu	109.7	high confidence set
+Chr_06	127	5734002	5733929	Glu	TTC	0	0	70.5	43.00	27.50	Inf	Glu	89.1	high confidence set
+Chr_06	128	5614703	5614631	Val	TAC	0	0	71.5	39.00	32.50	Inf	Val	101.2	high confidence set
+Chr_06	129	5522950	5522877	Val	CAC	0	0	79.1	48.00	31.10	Inf	Val	101.8	high confidence set
+Chr_06	130	5098220	5098148	Thr	AGT	0	0	65.7	37.30	28.40	Inf	Thr	81.4	high confidence set
+Chr_06	132	5006606	5006534	Ala	CGC	0	0	68.3	44.10	24.20	Inf	Ala	99.2	high confidence set
+Chr_06	133	4694006	4693934	Lys	CTT	0	0	87.7	67.60	20.10	Inf	Lys	106.7	high confidence set
+Chr_06	134	4561228	4561155	Val	AAC	0	0	72.2	47.80	24.40	Inf	Val	98.2	high confidence set
+Chr_06	135	4044696	4044622	Lys	TTT	0	0	77.4	55.00	22.40	Inf	Ile	90.2	IPD:-11.80,isotype mismatch
+Chr_06	137	3466602	3466520	Leu	TAA	0	0	68.4	29.10	39.30	Inf	Leu	90.1	high confidence set
+Chr_06	138	1865154	1865082	Lys	CTT	0	0	87.7	67.60	20.10	Inf	Lys	106.7	high confidence set
+Chr_06	139	1344450	1344379	Gly	TCC	0	0	68.5	44.20	24.30	Inf	Gly	79.2	high confidence set
+Chr_06	140	1275414	1275343	Gln	CTG	0	0	71.2	46.50	24.70	Inf	Gln	101.3	high confidence set
+Chr_07	2	905616	905688	Ala	AGC	0	0	63.4	38.20	25.20	Inf	Ala	98.3	high confidence set
+Chr_07	3	2091407	2091478	Asp	GTC	0	0	69.8	46.80	23.00	Inf	Asp	94.5	high confidence set
+Chr_07	4	2460313	2460386	Val	AAC	0	0	72.2	47.80	24.40	Inf	Val	98.2	high confidence set
+Chr_07	5	2461396	2461469	Val	AAC	0	0	72.2	47.80	24.40	Inf	Val	98.2	high confidence set
+Chr_07	7	5669046	5669117	Gln	TTG	0	0	70.1	50.20	19.90	Inf	Gln	106.9	high confidence set
+Chr_07	8	5670182	5670253	Gln	TTG	0	0	73.5	53.70	19.80	Inf	Gln	104.0	high confidence set
+Chr_07	9	5670447	5670518	Gln	TTG	0	0	70.7	50.90	19.80	Inf	Gln	102.9	high confidence set
+Chr_07	10	5670712	5670783	Gln	TTG	0	0	70.7	50.90	19.80	Inf	Gln	102.9	high confidence set
+Chr_07	11	5670977	5671049	Gln	TTG	0	0	58.6	37.40	21.20	Inf	Gln	81.3	high confidence set
+Chr_07	13	5671830	5671901	Gln	TTG	0	0	73.5	53.70	19.80	Inf	Gln	108.0	high confidence set
+Chr_07	14	5672118	5672189	Gln	TTG	0	0	62.9	48.40	14.50	Inf	Gln	96.3	high confidence set
+Chr_07	15	6121756	6121827	His	GTG	0	0	63.0	33.70	29.30	Inf	His	86.8	high confidence set
+Chr_07	16	6961234	6961315	Ser	CGA	0	0	76.5	44.60	31.90	Inf	Ser	118.0	high confidence set
+Chr_07	18	9246501	9246573	Arg	ACG	0	0	73.2	50.90	22.30	Inf	Arg	94.3	high confidence set
+Chr_07	21	11372799	11372880	Ser	CGA	0	0	78.9	46.60	32.30	Inf	Ser	122.0	high confidence set
+Chr_07	23	12463336	12463406	Gly	GCC	0	0	66.5	44.80	21.70	Inf	Gly	94.4	high confidence set
+Chr_07	24	12771448	12771528	Leu	AAG	0	0	74.0	52.20	21.80	Inf	Leu	110.4	high confidence set
+Chr_07	25	12772981	12773052	Gln	TTG	0	0	73.5	53.70	19.80	Inf	Gln	104.8	high confidence set
+Chr_07	27	13913763	13913844	Ser	TGA	0	0	80.7	46.10	34.60	Inf	Ser	119.7	high confidence set
+Chr_07	28	14203247	14203330	Leu	CAA	0	0	76.7	54.50	22.20	Inf	Leu	123.1	high confidence set
+Chr_07	29	14795150	14795221	Pro	TGG	0	0	68.9	36.50	32.40	Inf	Pro	109.4	high confidence set
+Chr_07	33	17111002	17111075	Asn	GTT	0	0	79.0	51.30	27.70	Inf	Ile	86.5	IPD:-14.20,isotype mismatch
+Chr_07	34	18462206	18462279	Ile	AAT	0	0	66.9	53.00	13.90	Inf	Ile	80.6	high confidence set
+Chr_07	39	20293898	20293976	Arg	ACG	0	0	60.6	48.40	12.20	Inf	Ile	70.4	IPD:-21.30,isotype mismatch
+Chr_07	43	20342853	20342924	Arg	TCT	0	0	58.3	25.60	32.70	Inf	Gln	70.8	IPD:-24.50,isotype mismatch
+Chr_07	44	20359088	20359158	Cys	GCA	0	0	64.9	46.30	18.60	Inf	Cys	73.4	high confidence set
+Chr_07	51	21368293	21368365	Ile	AAT	0	0	68.6	48.70	19.90	Inf	Ile	73.4	high confidence set
+Chr_07	52	21392575	21392649	Lys	TTT	0	0	70.2	47.80	22.40	Inf	Ile	85.2	IPD:-21.30,isotype mismatch
+Chr_07	57	24103672	24103746	Leu	CAA	0	0	73.5	52.60	20.90	Inf	Ile	79.5	IPD:-77.10,isotype mismatch
+Chr_07	59	27508973	27509047	Lys	TTT	0	0	72.5	52.90	19.60	Inf	Ile	84.5	IPD:-15.20,isotype mismatch
+Chr_07	60	27644349	27644423	Lys	TTT	0	0	72.9	50.70	22.20	Inf	Ile	87.6	IPD:-15.30,isotype mismatch
+Chr_07	61	27791000	27791071	Trp	CCA	0	0	75.8	51.20	24.60	Inf	Trp	105.6	high confidence set
+Chr_07	63	28937685	28937766	Ser	AGA	0	0	80.3	44.00	36.30	Inf	Ser	115.3	high confidence set
+Chr_07	65	32147761	32147832	His	GTG	0	0	63.0	33.70	29.30	Inf	His	86.8	high confidence set
+Chr_07	70	34276702	34276783	Ser	AGA	0	0	79.4	43.10	36.30	Inf	Ser	115.0	high confidence set
+Chr_07	72	34296699	34296770	iMet	CAT	0	0	58.3	28.10	30.20	Inf	iMet	118.7	high confidence set
+Chr_07	73	35967940	35968012	Lys	CTT	0	0	87.7	67.60	20.10	Inf	Lys	106.7	high confidence set
+Chr_07	74	36338673	36338745	Phe	GAA	0	0	78.3	58.40	19.90	Inf	Phe	113.2	high confidence set
+Chr_07	75	37585473	37585544	iMet	CAT	0	0	58.3	28.10	30.20	Inf	iMet	118.7	high confidence set
+Chr_07	76	38110319	38110400	Ser	TGA	0	0	79.2	43.90	35.30	Inf	Ser	110.3	high confidence set
+Chr_07	77	38253501	38253572	Pro	TGG	0	0	66.3	31.40	34.90	Inf	Pro	105.9	high confidence set
+Chr_07	78	38413824	38413896	Glu	CTC	0	0	71.9	50.90	21.00	Inf	Glu	91.7	high confidence set
+Chr_07	79	38649367	38649441	Thr	AGT	0	0	58.6	31.40	27.20	Inf	Thr	75.0	high confidence set
+Chr_07	81	41965441	41965369	Ala	AGC	0	0	63.4	38.20	25.20	Inf	Ala	98.3	high confidence set
+Chr_07	83	40690330	40690257	Arg	TCG	0	0	82.3	61.00	21.30	Inf	Arg	91.9	high confidence set
+Chr_07	84	40404162	40404081	Ser	AGA	0	0	79.4	43.10	36.30	Inf	Ser	115.0	high confidence set
+Chr_07	85	40110305	40110220	Met	CAT	40110267	40110256	64.2	40.80	23.40	Inf	Met	104.0	high confidence set
+Chr_07	86	40038368	40038296	Arg	CCG	0	0	67.8	49.10	18.70	Inf	Arg	93.5	high confidence set
+Chr_07	87	39403638	39403567	Gly	TCC	0	0	71.0	46.70	24.30	Inf	Gly	82.3	high confidence set
+Chr_07	89	38112898	38112824	Lys	TTT	0	0	73.6	51.30	22.30	Inf	Ile	87.7	IPD:-21.00,isotype mismatch
+Chr_07	91	37777731	37777660	Asp	GTC	0	0	69.8	46.80	23.00	Inf	Asp	94.5	high confidence set
+Chr_07	93	37268118	37268046	Ala	CGC	0	0	68.3	44.10	24.20	Inf	Ala	99.2	high confidence set
+Chr_07	95	36782445	36782373	Phe	GAA	0	0	78.3	58.40	19.90	Inf	Phe	113.2	high confidence set
+Chr_07	96	36620924	36620852	Phe	GAA	0	0	78.3	58.40	19.90	Inf	Phe	113.2	high confidence set
+Chr_07	97	35049557	35049487	Gly	CCC	0	0	65.4	28.10	37.30	Inf	Gly	85.4	high confidence set
+Chr_07	98	34253386	34253312	Lys	TTT	0	0	72.9	50.70	22.20	Inf	Ile	87.6	IPD:-15.30,isotype mismatch
+Chr_07	102	31612671	31612598	Ile	AAT	0	0	71.8	49.10	22.70	Inf	Ile	89.9	high confidence set
+Chr_07	103	30668957	30668886	Pro	AGG	0	0	67.4	34.70	32.70	Inf	Pro	112.3	high confidence set
+Chr_07	104	30668867	30668796	Thr	TGT	0	0	80.2	57.00	23.20	Inf	Thr	90.0	high confidence set
+Chr_07	106	28950233	28950159	Sup	TCA	0	0	64.4	45.10	19.30	Inf	Ile	71.9	IPD:-71.90,unexpected anticodon
+Chr_07	109	27637899	27637825	Lys	TTT	0	0	72.9	50.70	22.20	Inf	Ile	87.6	IPD:-15.30,isotype mismatch
+Chr_07	118	21413524	21413451	Sup	TCA	0	0	66.7	55.60	11.10	Inf	Ile	83.9	IPD:-83.90,unexpected anticodon
+Chr_07	122	20341472	20341385	Ser	GCT	0	0	54.5	37.50	17.00	Inf	Ser	71.7	high confidence set
+Chr_07	125	20294645	20294574	Asn	GTT	0	0	74.8	57.70	17.10	Inf	Asn	75.9	high confidence set
+Chr_07	132	18655571	18655498	Sup	TTA	0	0	81.1	56.90	24.20	Inf	Ile	89.9	IPD:-89.90,unexpected anticodon
+Chr_07	133	17881947	17881874	Asn	GTT	0	0	81.3	57.20	24.10	Inf	Ile	85.1	IPD:-14.60,isotype mismatch
+Chr_07	134	16926746	16926672	Lys	TTT	0	0	72.9	50.70	22.20	Inf	Ile	87.6	IPD:-15.30,isotype mismatch
+Chr_07	135	16900421	16900348	Sup	TTA	0	0	81.1	56.90	24.20	Inf	Ile	89.9	IPD:-89.90,unexpected anticodon
+Chr_07	138	13638893	13638820	Arg	TCG	0	0	82.3	61.00	21.30	Inf	Arg	91.9	high confidence set
+Chr_07	140	12561360	12561277	Leu	CAA	0	0	76.7	54.50	22.20	Inf	Leu	123.1	high confidence set
+Chr_07	141	12345951	12345880	Gln	TTG	0	0	76.4	56.50	19.90	Inf	Gln	109.1	high confidence set
+Chr_07	142	10833736	10833653	Leu	CAA	0	0	76.7	54.50	22.20	Inf	Leu	123.1	high confidence set
+Chr_07	145	7003458	7003387	Cys	GCA	0	0	82.1	59.90	22.20	Inf	Cys	106.6	high confidence set
+Chr_07	147	6755481	6755401	Ser	GCT	0	0	58.2	33.30	24.90	Inf	Ser	76.7	high confidence set
+Chr_07	148	6479422	6479350	Ala	TGC	0	0	65.6	39.80	25.80	Inf	Ala	97.7	high confidence set
+Chr_07	149	6434793	6434721	Lys	CTT	0	0	87.7	67.60	20.10	Inf	Lys	106.7	high confidence set
+Chr_07	150	6434711	6434631	Leu	AAG	0	0	74.0	52.20	21.80	Inf	Leu	110.4	high confidence set
+Chr_07	151	6046189	6046118	Lys	TTT	0	0	80.4	65.10	15.30	Inf	Lys	85.9	high confidence set
+Chr_07	152	5528816	5528744	Ala	AGC	0	0	62.4	37.10	25.30	Inf	Ala	97.5	high confidence set
+Chr_07	154	4744743	4744673	Gly	GCC	0	0	66.5	44.80	21.70	Inf	Gly	94.4	high confidence set
+Chr_07	155	4142518	4142445	Ile	AAT	0	0	84.9	58.30	26.60	Inf	Ile	109.3	high confidence set
+Chr_07	156	4063511	4063437	Lys	TTT	0	0	77.4	55.00	22.40	Inf	Ile	90.2	IPD:-11.80,isotype mismatch
+Chr_07	158	1679040	1678955	Tyr	GTA	1679003	1678991	73.7	41.90	31.80	Inf	Tyr	106.6	high confidence set
+Chr_07	159	1290189	1290118	Pro	TGG	0	0	68.9	36.50	32.40	Inf	Pro	109.4	high confidence set
+scaffold_9	1	120647	120721	Lys	TTT	0	0	69.6	47.20	22.40	Inf	Ile	85.0	IPD:-15.60,isotype mismatch
+scaffold_9	2	195976	196050	Lys	TTT	0	0	69.6	47.20	22.40	Inf	Ile	85.0	IPD:-15.60,isotype mismatch
+scaffold_9	3	207772	207846	Lys	TTT	0	0	69.6	47.20	22.40	Inf	Ile	85.0	IPD:-15.60,isotype mismatch
+scaffold_14	2	4611	4538	Sup	TTA	0	0	70.3	58.70	11.60	Inf	Ile	80.8	IPD:-80.80,unexpected anticodon
+scaffold_33	2	36906	36834	Arg	CCG	0	0	74.3	55.00	19.30	Inf	Arg	77.4	high confidence set
+scaffold_118	1	15333	15407	Lys	TTT	0	0	69.6	47.20	22.40	Inf	Ile	85.0	IPD:-15.60,isotype mismatch
+scaffold_933	2	125	51	Sup	TCA	0	0	64.4	45.10	19.30	Inf	Ile	71.9	IPD:-71.90,unexpected anticodon

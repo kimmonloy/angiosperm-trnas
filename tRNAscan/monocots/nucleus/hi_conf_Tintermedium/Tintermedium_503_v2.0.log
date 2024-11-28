@@ -1,0 +1,112 @@
+EukHighConfidenceFilter v1.0 Summary
+Completed Time: Mon Sep 19 23:53:14 2022
+
+Inputs
+------------------------------------------------------
+tRNAscan-SE output file: Tintermedium_503_v2.0_trnascan-se.output
+tRNAscan-SE ss file: Tintermedium_503_v2.0_trnascan-se.struct
+Secondary filtering domain-specific model score cutoff: 50
+Secondary filtering secondary structure score cutoff: 10
+Secondary filtering isotype-specific model score cutoff: 70
+Tertiary filtering isotype-specific model starting score cutoff: 70
+Tertiary filtering maximum isotype-specific model score cutoff: 95
+Remove filtered hits: Yes
+
+Outputs
+------------------------------------------------------
+tRNAscan-SE output file: hi_conf_Tintermedium/Tintermedium_503_v2.0.out
+tRNAscan-SE ss file: hi_conf_Tintermedium/Tintermedium_503_v2.0.ss
+Summary file: hi_conf_Tintermedium/Tintermedium_503_v2.0.log
+
+Summary statistics
+------------------------------------------------------
+Total tRNA predictions:                                7265
+Possible pseudogenes:                                  1613
+tRNAs with scores lower than secondary cutoffs:        2686
+tRNAs failed tertiary filter:                          1462
+
+tRNAs after filtering:                                 1504
+
+tRNAs with mismatched isotype:                         7
+tRNAs with undetermined isotype:                       3
+tRNAs with unexpected anticodon:                       3
+
+High confidence set:                                   1491
+
+Tertiary filter - anticodon counts
+------------------------------------------------------
+
+Isotype  Anticodon  BeforeFiltering  AfterFiltering  FinalScoreCutoff
+Ala      AGC        96               17              93              
+Ala      CGC        47               37              93              
+Ala      TGC        48               36              93              
+Arg      ACG        79               0               95              
+Arg      CCG        21               0               95              
+Arg      TCG        23               2               95              
+Arg      CCT        37               0               95              
+Arg      TCT        43               26              95              
+Asn      GTT        127              33              91              
+Asp      GTC        129              6               95              
+Cys      GCA        76               46              95              
+Gln      CTG        49               45              95              
+Gln      TTG        74               62              95              
+Glu      CTC        106              4               93              
+Glu      TTC        51               9               93              
+Gly      GCC        141              10              95              
+Gly      CCC        43               0               95              
+Gly      TCC        44               3               95              
+His      GTG        66               3               88              
+Ile      AAT        102              82              95              
+Ile      GAT        38               3               95              
+Ile      TAT        12               9               95              
+Leu      AAG        62               50              95              
+Leu      CAG        38               38              95              
+Leu      TAG        28               26              95              
+Leu      CAA        35               30              95              
+Leu      TAA        18               8               95              
+Lys      CTT        131              109             95              
+Lys      TTT        89               9               95              
+Met      CAT        181              158             95              
+Phe      GAA        79               60              95              
+Pro      AGG        83               68              95              
+Pro      CGG        27               26              95              
+Pro      TGG        68               43              95              
+Ser      AGA        61               55              95              
+Ser      CGA        24               22              95              
+Ser      TGA        30               28              95              
+Ser      GCT        86               55              95              
+Thr      AGT        60               4               89              
+Thr      CGT        31               17              89              
+Thr      TGT        32               20              89              
+Trp      CCA        59               51              95              
+Tyr      GTA        56               49              95              
+Val      AAC        94               66              95              
+Val      CAC        68               56              95              
+Val      TAC        22               15              95              
+
+Isotype / Anticodon Counts After Filtering
+------------------------------------------------------
+
+Ala     : 90	  AGC: 17      GGC: 0       CGC: 37      TGC: 36    
+Gly     : 13	  ACC: 0       GCC: 10      CCC: 0       TCC: 3     
+Pro     : 137	  AGG: 68      GGG: 0       CGG: 26      TGG: 43    
+Thr     : 42	  AGT: 4       GGT: 1       CGT: 17      TGT: 20    
+Val     : 137	  AAC: 66      GAC: 0       CAC: 56      TAC: 15    
+Ser     : 160	  AGA: 55      GGA: 0       CGA: 22      TGA: 28      ACT: 0       GCT: 55                              
+Arg     : 28	  ACG: 0       GCG: 0       CCG: 0       TCG: 2                                 CCT: 0       TCT: 26    
+Leu     : 152	  AAG: 50      GAG: 0       CAG: 38      TAG: 26                                CAA: 30      TAA: 8     
+Phe     : 60	  AAA: 0       GAA: 60                              
+Asn     : 33	  ATT: 0       GTT: 33                              
+Lys     : 118	                            CTT: 109     TTT: 9     
+Asp     : 6	  ATC: 0       GTC: 6                               
+Glu     : 13	                            CTC: 4       TTC: 9     
+His     : 4	  ATG: 1       GTG: 3                               
+Gln     : 107	                            CTG: 45      TTG: 62    
+Ile     : 94	  AAT: 82      GAT: 3                    TAT: 9     
+Met     : 158	                            CAT: 158                
+Tyr     : 50	  ATA: 1       GTA: 49                              
+Supres  : 1	                            CTA: 0       TTA: 1     
+Cys     : 46	  ACA: 0       GCA: 46                              
+Trp     : 51	                            CCA: 51                 
+SelCys  : 1	                                         TCA: 1     
+

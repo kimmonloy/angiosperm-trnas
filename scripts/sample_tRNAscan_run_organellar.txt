@@ -1,0 +1,1 @@
+tRNAscan-SE --detail -O -Hy --output Acoerulea_cp.output --struct Acoerulea_cp.struct --stats Acoerulea_cp.stats --fasta Acoerulea_cp.trnas.fa --gff Acoerulea_cp.gff3 --bed Acoerulea_cp.bed --thread 30 Acoerulea_cp.fa

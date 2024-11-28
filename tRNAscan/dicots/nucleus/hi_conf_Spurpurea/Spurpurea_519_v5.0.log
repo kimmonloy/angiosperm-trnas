@@ -1,0 +1,61 @@
+EukHighConfidenceFilter v1.0 Summary
+Completed Time: Tue Sep 20 00:25:59 2022
+
+Inputs
+------------------------------------------------------
+tRNAscan-SE output file: Spurpurea_519_v5.0_trnascan-se.output
+tRNAscan-SE ss file: Spurpurea_519_v5.0_trnascan-se.struct
+Secondary filtering domain-specific model score cutoff: 50
+Secondary filtering secondary structure score cutoff: 10
+Secondary filtering isotype-specific model score cutoff: 70
+Tertiary filtering isotype-specific model starting score cutoff: 70
+Tertiary filtering maximum isotype-specific model score cutoff: 95
+Remove filtered hits: Yes
+
+Outputs
+------------------------------------------------------
+tRNAscan-SE output file: hi_conf_Spurpurea/Spurpurea_519_v5.0.out
+tRNAscan-SE ss file: hi_conf_Spurpurea/Spurpurea_519_v5.0.ss
+Summary file: hi_conf_Spurpurea/Spurpurea_519_v5.0.log
+
+Summary statistics
+------------------------------------------------------
+Total tRNA predictions:                                704
+Possible pseudogenes:                                  101
+tRNAs with scores lower than secondary cutoffs:        57
+tRNAs failed tertiary filter:                          0
+
+tRNAs after filtering:                                 546
+
+tRNAs with mismatched isotype:                         4
+tRNAs with undetermined isotype:                       0
+tRNAs with unexpected anticodon:                       0
+
+High confidence set:                                   542
+
+Isotype / Anticodon Counts After Filtering
+------------------------------------------------------
+
+Ala     : 35	  AGC: 17      GGC: 0       CGC: 6       TGC: 12    
+Gly     : 46	  ACC: 0       GCC: 23      CCC: 8       TCC: 15    
+Pro     : 35	  AGG: 14      GGG: 0       CGG: 3       TGG: 18    
+Thr     : 23	  AGT: 11      GGT: 0       CGT: 4       TGT: 8     
+Val     : 33	  AAC: 17      GAC: 0       CAC: 9       TAC: 7     
+Ser     : 38	  AGA: 13      GGA: 0       CGA: 4       TGA: 9       ACT: 0       GCT: 12                              
+Arg     : 38	  ACG: 9       GCG: 0       CCG: 4       TCG: 7                                 CCT: 8       TCT: 10    
+Leu     : 47	  AAG: 13      GAG: 0       CAG: 7       TAG: 9                                 CAA: 12      TAA: 6     
+Phe     : 17	  AAA: 0       GAA: 17                              
+Asn     : 18	  ATT: 0       GTT: 18                              
+Lys     : 36	                            CTT: 19      TTT: 17    
+Asp     : 25	  ATC: 0       GTC: 25                              
+Glu     : 33	                            CTC: 19      TTC: 14    
+His     : 12	  ATG: 0       GTG: 12                              
+Gln     : 21	                            CTG: 11      TTG: 10    
+Ile     : 25	  AAT: 18      GAT: 0                    TAT: 7     
+Met     : 27	                            CAT: 27                 
+Tyr     : 15	  ATA: 0       GTA: 15                              
+Supres  : 0	                            CTA: 0       TTA: 0     
+Cys     : 11	  ACA: 0       GCA: 11                              
+Trp     : 11	                            CCA: 11                 
+SelCys  : 0	                                         TCA: 0     
+

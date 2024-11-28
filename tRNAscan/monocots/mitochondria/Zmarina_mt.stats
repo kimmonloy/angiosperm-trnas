@@ -1,0 +1,79 @@
+
+tRNAscan-SE v.2.0.9 (July 2021) scan results (on host saliksik-cpu-30.coare.local)
+Started: Sun Feb 26 17:12:03 PST 2023
+
+------------------------------------------------------------
+Sequence file(s) to search:        Zmarina_mt.fa
+Search Mode:                       Organellar
+Results written to:                Zmarina_mt.output
+Output format:                     Tabular
+Searching with:                    Infernal single-pass scan
+                                   Maximum sensitivity mode
+Covariance model:                  /home/kim.monloy/.conda/envs/trnascan-se/lib/tRNAscan-SE/models/TRNAinf-1415.cm
+tRNA covariance model search       
+    cutoff score:                  15
+
+Temporary directory:               /tmp
+tRNA secondary structure
+    predictions saved to:          Zmarina_mt.struct
+tRNA predictions saved to:         Zmarina_mt.bed
+tRNA predictions saved to:         Zmarina_mt.gff3
+Predicted tRNA sequences
+    saved to:                      Zmarina_mt.trnas.fa
+Search statistics saved in:        Zmarina_mt.stats
+
+Pseudogene checking disabled
+Reporting HMM/2' structure score breakdown
+------------------------------------------------------------
+
+Infernal Stats:
+-----------
+Sequences read:           1
+Infernal-confirmed tRNAs:     17
+Bases scanned by Infernal:  191481
+% seq scanned by Infernal:  100.0 %
+Script CPU time:          0.03 s
+Infernal CPU time:            141.84 s
+Scan speed:               1350.0 bp/sec
+
+Infernal analysis of tRNAs ended: Sun Feb 26 17:13:20 PST 2023
+
+Overall scan speed: 1349.7 bp/sec
+
+tRNAs decoding Standard 20 AA:              16
+Selenocysteine tRNAs (TCA):                 0
+Possible suppressor tRNAs (CTA,TTA,TCA):    0
+tRNAs with undetermined/unknown isotypes:   1
+Predicted pseudogenes:                      0
+                                            -------
+Total tRNAs:                                17
+
+tRNAs with introns:     	1
+
+| Ala-TGC: 1 |
+
+Isotype / Anticodon Counts:
+
+Ala     : 1	  AGC:         GGC:         CGC:         TGC: 1     
+Gly     : 0	  ACC:         GCC:         CCC:         TCC:       
+Pro     : 0	  AGG:         GGG:         CGG:         TGG:       
+Thr     : 1	  AGT:         GGT: 1       CGT:         TGT:       
+Val     : 0	  AAC:         GAC:         CAC:         TAC:       
+Ser     : 0	  AGA:         GGA:         CGA:         TGA:         ACT:         GCT:       
+Arg     : 1	  ACG: 1       GCG:         CCG:         TCG:         CCT:         TCT:       
+Leu     : 1	  AAG:         GAG:         CAG:         TAG:         CAA: 1       TAA:       
+Phe     : 0	  AAA:         GAA:                                 
+Asn     : 1	  ATT:         GTT: 1                               
+Lys     : 0	                            CTT:         TTT:       
+Asp     : 1	  ATC:         GTC: 1                               
+Glu     : 2	                            CTC:         TTC: 2     
+His     : 0	  ATG:         GTG:                                 
+Gln     : 2	                            CTG:         TTG: 2     
+Ile     : 0	  AAT:         GAT:         CAT:         TAT:       
+Met     : 3	                            CAT: 3                  
+Tyr     : 1	  ATA:         GTA: 1                               
+Supres  : 0	               CTA:         TTA:         TCA:       
+Cys     : 1	  ACA:         GCA: 1                               
+Trp     : 1	                            CCA: 1                  
+SelCys  : 0	                                         TCA:       
+

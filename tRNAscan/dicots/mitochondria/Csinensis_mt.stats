@@ -1,0 +1,79 @@
+
+tRNAscan-SE v.2.0.9 (July 2021) scan results (on host saliksik-cpu-27.coare.local)
+Started: Sun Feb 26 16:52:06 PST 2023
+
+------------------------------------------------------------
+Sequence file(s) to search:        Csinensis_mt.fa
+Search Mode:                       Organellar
+Results written to:                Csinensis_mt.output
+Output format:                     Tabular
+Searching with:                    Infernal single-pass scan
+                                   Maximum sensitivity mode
+Covariance model:                  /home/kim.monloy/.conda/envs/trnascan-se/lib/tRNAscan-SE/models/TRNAinf-1415.cm
+tRNA covariance model search       
+    cutoff score:                  15
+
+Temporary directory:               /tmp
+tRNA secondary structure
+    predictions saved to:          Csinensis_mt.struct
+tRNA predictions saved to:         Csinensis_mt.bed
+tRNA predictions saved to:         Csinensis_mt.gff3
+Predicted tRNA sequences
+    saved to:                      Csinensis_mt.trnas.fa
+Search statistics saved in:        Csinensis_mt.stats
+
+Pseudogene checking disabled
+Reporting HMM/2' structure score breakdown
+------------------------------------------------------------
+
+Infernal Stats:
+-----------
+Sequences read:           1
+Infernal-confirmed tRNAs:     49
+Bases scanned by Infernal:  640906
+% seq scanned by Infernal:  100.0 %
+Script CPU time:          0.11 s
+Infernal CPU time:            454.08 s
+Scan speed:               1411.4 bp/sec
+
+Infernal analysis of tRNAs ended: Sun Feb 26 16:53:44 PST 2023
+
+Overall scan speed: 1411.1 bp/sec
+
+tRNAs decoding Standard 20 AA:              46
+Selenocysteine tRNAs (TCA):                 0
+Possible suppressor tRNAs (CTA,TTA,TCA):    1
+tRNAs with undetermined/unknown isotypes:   2
+Predicted pseudogenes:                      0
+                                            -------
+Total tRNAs:                                49
+
+tRNAs with introns:     	4
+
+| Ala-TGC: 1 | Pro-CGG: 1 | Ile-GAT: 1 | Ile-TAT: 1 |
+
+Isotype / Anticodon Counts:
+
+Ala     : 1	  AGC:         GGC:         CGC:         TGC: 1     
+Gly     : 2	  ACC:         GCC: 2       CCC:         TCC:       
+Pro     : 4	  AGG:         GGG:         CGG: 1       TGG: 3     
+Thr     : 2	  AGT:         GGT: 1       CGT:         TGT: 1     
+Val     : 2	  AAC:         GAC: 2       CAC:         TAC:       
+Ser     : 7	  AGA:         GGA: 2       CGA: 1       TGA: 2       ACT:         GCT: 2     
+Arg     : 1	  ACG:         GCG:         CCG:         TCG:         CCT:         TCT: 1     
+Leu     : 0	  AAG:         GAG:         CAG:         TAG:         CAA:         TAA:       
+Phe     : 2	  AAA:         GAA: 2                               
+Asn     : 1	  ATT:         GTT: 1                               
+Lys     : 1	                            CTT:         TTT: 1     
+Asp     : 2	  ATC:         GTC: 2                               
+Glu     : 2	                            CTC:         TTC: 2     
+His     : 2	  ATG:         GTG: 2                               
+Gln     : 2	                            CTG:         TTG: 2     
+Ile     : 2	  AAT:         GAT: 1       CAT:         TAT: 1     
+Met     : 7	                            CAT: 7                  
+Tyr     : 2	  ATA:         GTA: 2                               
+Supres  : 1	               CTA:         TTA:         TCA: 1     
+Cys     : 2	  ACA:         GCA: 2                               
+Trp     : 2	                            CCA: 2                  
+SelCys  : 0	                                         TCA:       
+

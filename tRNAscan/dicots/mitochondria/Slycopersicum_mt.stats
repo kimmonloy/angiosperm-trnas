@@ -1,0 +1,79 @@
+
+tRNAscan-SE v.2.0.9 (July 2021) scan results (on host saliksik-cpu-30.coare.local)
+Started: Sun Feb 26 16:54:37 PST 2023
+
+------------------------------------------------------------
+Sequence file(s) to search:        Slycopersicum_mt.fa
+Search Mode:                       Organellar
+Results written to:                Slycopersicum_mt.output
+Output format:                     Tabular
+Searching with:                    Infernal single-pass scan
+                                   Maximum sensitivity mode
+Covariance model:                  /home/kim.monloy/.conda/envs/trnascan-se/lib/tRNAscan-SE/models/TRNAinf-1415.cm
+tRNA covariance model search       
+    cutoff score:                  15
+
+Temporary directory:               /tmp
+tRNA secondary structure
+    predictions saved to:          Slycopersicum_mt.struct
+tRNA predictions saved to:         Slycopersicum_mt.bed
+tRNA predictions saved to:         Slycopersicum_mt.gff3
+Predicted tRNA sequences
+    saved to:                      Slycopersicum_mt.trnas.fa
+Search statistics saved in:        Slycopersicum_mt.stats
+
+Pseudogene checking disabled
+Reporting HMM/2' structure score breakdown
+------------------------------------------------------------
+
+Infernal Stats:
+-----------
+Sequences read:           1
+Infernal-confirmed tRNAs:     28
+Bases scanned by Infernal:  446257
+% seq scanned by Infernal:  100.0 %
+Script CPU time:          0.07 s
+Infernal CPU time:            309.10 s
+Scan speed:               1443.7 bp/sec
+
+Infernal analysis of tRNAs ended: Sun Feb 26 16:56:03 PST 2023
+
+Overall scan speed: 1443.4 bp/sec
+
+tRNAs decoding Standard 20 AA:              28
+Selenocysteine tRNAs (TCA):                 0
+Possible suppressor tRNAs (CTA,TTA,TCA):    0
+tRNAs with undetermined/unknown isotypes:   0
+Predicted pseudogenes:                      0
+                                            -------
+Total tRNAs:                                28
+
+tRNAs with introns:     	1
+
+| Ile-GAT: 1 |
+
+Isotype / Anticodon Counts:
+
+Ala     : 0	  AGC:         GGC:         CGC:         TGC:       
+Gly     : 2	  ACC:         GCC: 2       CCC:         TCC:       
+Pro     : 2	  AGG:         GGG:         CGG:         TGG: 2     
+Thr     : 0	  AGT:         GGT:         CGT:         TGT:       
+Val     : 0	  AAC:         GAC:         CAC:         TAC:       
+Ser     : 3	  AGA:         GGA: 1       CGA:         TGA: 1       ACT:         GCT: 1     
+Arg     : 0	  ACG:         GCG:         CCG:         TCG:         CCT:         TCT:       
+Leu     : 0	  AAG:         GAG:         CAG:         TAG:         CAA:         TAA:       
+Phe     : 1	  AAA:         GAA: 1                               
+Asn     : 2	  ATT:         GTT: 2                               
+Lys     : 1	                            CTT:         TTT: 1     
+Asp     : 1	  ATC:         GTC: 1                               
+Glu     : 2	                            CTC:         TTC: 2     
+His     : 1	  ATG:         GTG: 1                               
+Gln     : 2	                            CTG:         TTG: 2     
+Ile     : 1	  AAT:         GAT: 1       CAT:         TAT:       
+Met     : 7	                            CAT: 7                  
+Tyr     : 1	  ATA:         GTA: 1                               
+Supres  : 0	               CTA:         TTA:         TCA:       
+Cys     : 1	  ACA:         GCA: 1                               
+Trp     : 1	                            CCA: 1                  
+SelCys  : 0	                                         TCA:       
+

@@ -1,0 +1,74 @@
+EukHighConfidenceFilter v1.0 Summary
+Completed Time: Mon Sep 19 23:54:59 2022
+
+Inputs
+------------------------------------------------------
+tRNAscan-SE output file: Brapa_197_trnascan-se.output
+tRNAscan-SE ss file: Brapa_197_trnascan-se.struct
+Secondary filtering domain-specific model score cutoff: 50
+Secondary filtering secondary structure score cutoff: 10
+Secondary filtering isotype-specific model score cutoff: 70
+Tertiary filtering isotype-specific model starting score cutoff: 70
+Tertiary filtering maximum isotype-specific model score cutoff: 95
+Remove filtered hits: Yes
+
+Outputs
+------------------------------------------------------
+tRNAscan-SE output file: hi_conf_Brapa/Brapa_197.out
+tRNAscan-SE ss file: hi_conf_Brapa/Brapa_197.ss
+Summary file: hi_conf_Brapa/Brapa_197.log
+
+Summary statistics
+------------------------------------------------------
+Total tRNA predictions:                                1186
+Possible pseudogenes:                                  44
+tRNAs with scores lower than secondary cutoffs:        109
+tRNAs failed tertiary filter:                          26
+
+tRNAs after filtering:                                 1007
+
+tRNAs with mismatched isotype:                         15
+tRNAs with undetermined isotype:                       0
+tRNAs with unexpected anticodon:                       1
+
+High confidence set:                                   991
+
+Tertiary filter - anticodon counts
+------------------------------------------------------
+
+Isotype  Anticodon  BeforeFiltering  AfterFiltering  FinalScoreCutoff
+Asp      GTC        47               40              81              
+Gly      GCC        47               40              84              
+Gly      CCC        16               13              84              
+Gly      TCC        21               20              84              
+Met      CAT        43               39              93              
+Pro      AGG        27               27              95              
+Pro      CGG        9                9               95              
+Pro      TGG        59               55              95              
+
+Isotype / Anticodon Counts After Filtering
+------------------------------------------------------
+
+Ala     : 67	  AGC: 35      GGC: 1       CGC: 12      TGC: 19    
+Gly     : 73	  ACC: 0       GCC: 40      CCC: 13      TCC: 20    
+Pro     : 91	  AGG: 27      GGG: 0       CGG: 9       TGG: 55    
+Thr     : 45	  AGT: 22      GGT: 0       CGT: 9       TGT: 14    
+Val     : 62	  AAC: 34      GAC: 1       CAC: 15      TAC: 12    
+Ser     : 71	  AGA: 25      GGA: 0       CGA: 8       TGA: 14      ACT: 0       GCT: 24                              
+Arg     : 70	  ACG: 18      GCG: 0       CCG: 6       TCG: 11                                CCT: 17      TCT: 18    
+Leu     : 78	  AAG: 23      GAG: 0       CAG: 8       TAG: 19                                CAA: 18      TAA: 10    
+Phe     : 35	  AAA: 0       GAA: 35                              
+Asn     : 30	  ATT: 0       GTT: 30                              
+Lys     : 61	                            CTT: 35      TTT: 26    
+Asp     : 40	  ATC: 0       GTC: 40                              
+Glu     : 50	                            CTC: 29      TTC: 21    
+His     : 26	  ATG: 0       GTG: 26                              
+Gln     : 33	                            CTG: 19      TTG: 14    
+Ile     : 43	  AAT: 32      GAT: 1                    TAT: 10    
+Met     : 39	                            CAT: 39                 
+Tyr     : 36	  ATA: 0       GTA: 36                              
+Supres  : 0	                            CTA: 0       TTA: 0     
+Cys     : 27	  ACA: 0       GCA: 27                              
+Trp     : 29	                            CCA: 29                 
+SelCys  : 1	                                         TCA: 1     
+

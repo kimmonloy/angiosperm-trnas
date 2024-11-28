@@ -1,0 +1,79 @@
+
+tRNAscan-SE v.2.0.9 (July 2021) scan results (on host saliksik-cpu-28.coare.local)
+Started: Sun Feb 26 16:53:06 PST 2023
+
+------------------------------------------------------------
+Sequence file(s) to search:        Graimondii_mt.fa
+Search Mode:                       Organellar
+Results written to:                Graimondii_mt.output
+Output format:                     Tabular
+Searching with:                    Infernal single-pass scan
+                                   Maximum sensitivity mode
+Covariance model:                  /home/kim.monloy/.conda/envs/trnascan-se/lib/tRNAscan-SE/models/TRNAinf-1415.cm
+tRNA covariance model search       
+    cutoff score:                  15
+
+Temporary directory:               /tmp
+tRNA secondary structure
+    predictions saved to:          Graimondii_mt.struct
+tRNA predictions saved to:         Graimondii_mt.bed
+tRNA predictions saved to:         Graimondii_mt.gff3
+Predicted tRNA sequences
+    saved to:                      Graimondii_mt.trnas.fa
+Search statistics saved in:        Graimondii_mt.stats
+
+Pseudogene checking disabled
+Reporting HMM/2' structure score breakdown
+------------------------------------------------------------
+
+Infernal Stats:
+-----------
+Sequences read:           1
+Infernal-confirmed tRNAs:     31
+Bases scanned by Infernal:  676078
+% seq scanned by Infernal:  100.0 %
+Script CPU time:          0.09 s
+Infernal CPU time:            459.91 s
+Scan speed:               1470.0 bp/sec
+
+Infernal analysis of tRNAs ended: Sun Feb 26 16:54:31 PST 2023
+
+Overall scan speed: 1469.7 bp/sec
+
+tRNAs decoding Standard 20 AA:              28
+Selenocysteine tRNAs (TCA):                 0
+Possible suppressor tRNAs (CTA,TTA,TCA):    2
+tRNAs with undetermined/unknown isotypes:   1
+Predicted pseudogenes:                      0
+                                            -------
+Total tRNAs:                                31
+
+tRNAs with introns:     	5
+
+| Ala-TGC: 1 | Gln-TTG: 1 | Ile-TAT: 1 | Supres-TTA: 2 |
+
+Isotype / Anticodon Counts:
+
+Ala     : 1	  AGC:         GGC:         CGC:         TGC: 1     
+Gly     : 1	  ACC:         GCC: 1       CCC:         TCC:       
+Pro     : 1	  AGG:         GGG:         CGG:         TGG: 1     
+Thr     : 0	  AGT:         GGT:         CGT:         TGT:       
+Val     : 1	  AAC:         GAC: 1       CAC:         TAC:       
+Ser     : 3	  AGA:         GGA: 1       CGA:         TGA: 1       ACT:         GCT: 1     
+Arg     : 0	  ACG:         GCG:         CCG:         TCG:         CCT:         TCT:       
+Leu     : 0	  AAG:         GAG:         CAG:         TAG:         CAA:         TAA:       
+Phe     : 1	  AAA:         GAA: 1                               
+Asn     : 1	  ATT:         GTT: 1                               
+Lys     : 1	                            CTT:         TTT: 1     
+Asp     : 3	  ATC:         GTC: 3                               
+Glu     : 1	                            CTC:         TTC: 1     
+His     : 1	  ATG:         GTG: 1                               
+Gln     : 2	                            CTG:         TTG: 2     
+Ile     : 1	  AAT:         GAT:         CAT:         TAT: 1     
+Met     : 6	                            CAT: 6                  
+Tyr     : 1	  ATA:         GTA: 1                               
+Supres  : 2	               CTA:         TTA: 2       TCA:       
+Cys     : 1	  ACA:         GCA: 1                               
+Trp     : 2	                            CCA: 2                  
+SelCys  : 0	                                         TCA:       
+
